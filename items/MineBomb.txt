@@ -1,0 +1,44 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Mine
+|Images=Mine_360.gif
+|DebugName=MineBomb
+|ScannerCategory=Tools
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=yes
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=
+|FuelAmount=
+|BuyCost=5
+|SellValue=
+|Weight=3
+}}
+
+= OTHER =
+
+Description: Boooom!
+Category: EInventoryItemCategory::Weapon
+Resource Type: Resource.Type.Loot.Tool.Weapon
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.SecsToExplode: 4
+- Lyra.Inventory.Item.ArmorBarType: 5
+- Lyra.Inventory.Item.ExploadableCharged: 0
+- Lyra.Inventory.Item.Weight: 3000
+
+= SPAWNING =
+
+Loot Spawning Rules:

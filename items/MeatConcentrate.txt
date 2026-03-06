@@ -1,0 +1,41 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Meat Concentrate
+|Images=MeatConcentrate_360.gif
+|DebugName=
+|ScannerCategory=
+|ItemCategory=
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=
+|FuelAmount=8
+|BuyCost=
+|SellValue=
+|Weight=0.4
+}}
+
+= OTHER =
+
+Description: The party overdid it. Words are still superfluous.
+Category: EInventoryItemCategory::Resource
+Resource Type: NO_TAG_NAME
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: Consume
+- Inventory stats display: Lyra.Inventory.Item.HealAmount
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.HealAmount: 100
+- Lyra.Inventory.Item.FuelAdd: 8
+- Lyra.Inventory.Item.Weight: 400
+
+= SPAWNING =

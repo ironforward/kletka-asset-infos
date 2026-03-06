@@ -1,0 +1,40 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Bottle
+|Images=Bottle_360.gif
+|DebugName=
+|ScannerCategory=
+|ItemCategory=
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=
+|FuelAmount=
+|BuyCost=5
+|SellValue=0
+|Weight=0.2
+}}
+
+= OTHER =
+
+Description: NO_DESCRIPTION
+Category: NO_CATEGORY
+Resource Type: NO_TAG_NAME
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: false
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.Weight: 200
+- Lyra.Inventory.Item.Count: 5
+
+= SPAWNING =

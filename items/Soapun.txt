@@ -1,0 +1,49 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Soapun
+|Images=Soapun_360.gif
+|DebugName=Soapun
+|ScannerCategory=Tools
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=yes
+|KletkaMouthStorage=yes
+|Enchantable=yes
+|MagazineSize=
+|SpareAmmo=
+|Durability=50
+|StackCount=
+|FuelAmount=
+|BuyCost=4
+|SellValue=3
+|Weight=
+}}
+
+= OTHER =
+
+Description: Hygiene matters, but discipline matters more. Don’t drop it.
+Category: EInventoryItemCategory::Weapon
+Resource Type: Resource.Type.Loot.Tool.Weapon
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: true
+Can spawn with random enchantments: true
+Can spawn with random stats: 
+- Lyra.Inventory.Item.Durability [25, 50]
+Initial item stats:
+- Lyra.Inventory.Item.Durability: 50
+- Lyra.Inventory.Item.ArmorBarType: 5
+- Lyra.Inventory.Item.MaxDurability: 50
+
+= SPAWNING =
+
+Loot Spawning Rules:
+- DAF_Prison_ProceduralFloor_00
+  - SpawnChance: 3% ± 1% + 1% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false

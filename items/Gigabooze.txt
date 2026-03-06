@@ -1,0 +1,44 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Gigabooze
+|Images=Gigabooze_360.gif
+|DebugName=
+|ScannerCategory=
+|ItemCategory=
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=100
+|StackCount=
+|FuelAmount=40
+|BuyCost=
+|SellValue=
+|Weight=1.1
+}}
+
+= OTHER =
+
+Description: Resurrects all dead comrades.
+Alcohol can harm your health. Drink responsibly.
+Category: EInventoryItemCategory::Resource
+Resource Type: NO_TAG_NAME
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: Activate
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.HealAmount: 90
+- Lyra.Inventory.Item.Weight: 1100
+- Lyra.Inventory.Item.MaxDurability: 100
+- Lyra.Inventory.Item.Durability: 100
+- Lyra.Inventory.Item.FuelAdd: 40
+
+= SPAWNING =

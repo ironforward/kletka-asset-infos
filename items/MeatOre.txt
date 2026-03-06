@@ -1,0 +1,41 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Meat Ore
+|Images=MeatOre_360.gif
+|DebugName=
+|ScannerCategory=
+|ItemCategory=
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=12
+|FuelAmount=3
+|BuyCost=5
+|SellValue=0
+|Weight=3
+}}
+
+= OTHER =
+
+Description: Try to recycle this piece of stone meat into something more useful...
+Category: EInventoryItemCategory::Resource
+Resource Type: NO_TAG_NAME
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: Consume
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.MaxCount: 12
+- Lyra.Inventory.Item.FuelAdd: 3
+- Lyra.Inventory.Item.Weight: 3000
+
+= SPAWNING =

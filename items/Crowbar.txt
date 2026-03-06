@@ -1,0 +1,49 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Crowbar
+|Images=Crowbar_360.gif
+|DebugName=Crowbar
+|ScannerCategory=Tools
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=yes
+|KletkaMouthStorage=yes
+|Enchantable=yes
+|MagazineSize=
+|SpareAmmo=
+|Durability=180
+|StackCount=
+|FuelAmount=
+|BuyCost=5
+|SellValue=3
+|Weight=0.2
+}}
+
+= OTHER =
+
+Description: Sometimes... I dream about... Crowbar...
+Category: EInventoryItemCategory::Weapon
+Resource Type: Resource.Type.Loot.Tool.Weapon
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: true
+Can spawn with random enchantments: true
+Can spawn with random stats: 
+- Lyra.Inventory.Item.Durability [70, #]
+Initial item stats:
+- Lyra.Inventory.Item.Durability: 180
+- Lyra.Inventory.Item.ArmorBarType: 5
+- Lyra.Inventory.Item.Weight: 200
+
+= SPAWNING =
+
+Loot Spawning Rules:
+- DAF_F_ProceduralFloor_00
+  - SpawnChance: 6% ± 1% + 1% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false

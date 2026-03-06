@@ -1,0 +1,41 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Milk Balls
+|Images=MilkBalls_360.gif
+|DebugName=
+|ScannerCategory=
+|ItemCategory=Ammo
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=30
+|FuelAmount=
+|BuyCost=
+|SellValue=
+|Weight=
+}}
+
+= OTHER =
+
+Description: NO_DESCRIPTION
+Category: EInventoryItemCategory::Ammo
+Resource Type: NO_TAG_NAME
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: false
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.MaxCount: 30
+- Lyra.Inventory.Item.ArmorBarType: 10
+- Lyra.Inventory.Item.Count: 2
+
+= SPAWNING =

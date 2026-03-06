@@ -1,0 +1,44 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Guitar
+|Images=Guitar_360.gif
+|DebugName=Guitar
+|ScannerCategory=Tools
+|ItemCategory=Tool
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=yes
+|MagazineSize=
+|SpareAmmo=
+|Durability=50
+|StackCount=
+|FuelAmount=
+|BuyCost=5
+|SellValue=1
+|Weight=1.5
+}}
+
+= OTHER =
+
+Description: Ah... My favourite weapon...
+Category: EInventoryItemCategory::Tools
+Resource Type: Resource.Type.Loot.Tool
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: true
+Can spawn with random enchantments: true
+Can spawn with random stats: 
+- Lyra.Inventory.Item.Durability [35, 50]
+Initial item stats:
+- Lyra.Inventory.Item.Durability: 50
+- Lyra.Inventory.Item.ArmorBarType: 5
+- Lyra.Inventory.Item.Weight: 1500
+
+= SPAWNING =
+
+Loot Spawning Rules:

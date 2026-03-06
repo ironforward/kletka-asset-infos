@@ -1,0 +1,40 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Snowball
+|Images=Snowball_360.gif
+|DebugName=
+|ScannerCategory=
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=yes
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=8
+|FuelAmount=
+|BuyCost=5
+|SellValue=0
+|Weight=0.4
+}}
+
+= OTHER =
+
+Description: NO_DESCRIPTION
+Category: EInventoryItemCategory::Weapon
+Resource Type: NO_TAG_NAME
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: Throw
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.MaxCount: 8
+- Lyra.Inventory.Item.Weight: 400
+
+= SPAWNING =

@@ -1,0 +1,43 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Ball
+|Images=Ball_360.gif
+|DebugName=Ball
+|ScannerCategory=Extras
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=yes
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=100
+|StackCount=1
+|FuelAmount=
+|BuyCost=
+|SellValue=
+|Weight=1.2
+}}
+
+= OTHER =
+
+Description: NO_DESCRIPTION
+Category: EInventoryItemCategory::Weapon
+Resource Type: Resource.Type.Loot.Extra
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: Throw
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.MaxCount: 1
+- Lyra.Inventory.Item.Weight: 1200
+- Lyra.Inventory.Item.Durability: 100
+
+= SPAWNING =
+
+Loot Spawning Rules:

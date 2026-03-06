@@ -1,0 +1,38 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Toofsucker
+|Images=Toofsucker_360.gif
+|DebugName=
+|ScannerCategory=
+|ItemCategory=Tool
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=no
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=
+|FuelAmount=
+|BuyCost=
+|SellValue=
+|Weight=
+}}
+
+= OTHER =
+
+Description: Nasty little bloodsucking critter with a shark smile and a taste for blood. Latches onto enemies and feeds on their bodily fluids, slowly but surely. Be glad he can be tamed and used against your enemies.
+Category: EInventoryItemCategory::Tools
+Resource Type: NO_TAG_NAME
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: false
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+
+= SPAWNING =

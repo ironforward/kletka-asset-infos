@@ -1,0 +1,42 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Rusty Grenade
+|Images=RustyGrenade_360.gif
+|DebugName=RustyGrenade
+|ScannerCategory=Tools
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=3
+|FuelAmount=
+|BuyCost=8
+|SellValue=0
+|Weight=
+}}
+
+= OTHER =
+
+Description: All components of this grenade have degraded over the years - use with caution!
+Category: EInventoryItemCategory::Weapon
+Resource Type: Resource.Type.Loot.Tool.Weapon
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: Throw
+- Inventory stats display: 
+Can spawn as loot: true
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.ExploadableCharged: 0
+- Lyra.Inventory.Item.MaxCount: 3
+
+= SPAWNING =
+
+Loot Spawning Rules:

@@ -1,0 +1,38 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Drunkleton
+|Images=Drunkleton_360.gif
+|DebugName=
+|ScannerCategory=
+|ItemCategory=Tool
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=no
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=
+|FuelAmount=
+|BuyCost=
+|SellValue=
+|Weight=
+}}
+
+= OTHER =
+
+Description: The ex-drunken master of bottle hoarding and self-proclaimed supply expert. Picks up every bottle in sight and delivers it to you without taking a sip, as his lifelong alcoholism got him on liver medication.
+Category: EInventoryItemCategory::Tools
+Resource Type: NO_TAG_NAME
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: false
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+
+= SPAWNING =

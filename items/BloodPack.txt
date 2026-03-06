@@ -1,0 +1,42 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Blood Pack
+|Images=BloodPack_360.gif
+|DebugName=BloodPack
+|ScannerCategory=Extras
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=
+|FuelAmount=
+|BuyCost=
+|SellValue=4
+|Weight=0.5
+}}
+
+= OTHER =
+
+Description: NO_DESCRIPTION
+Category: EInventoryItemCategory::Resource
+Resource Type: Resource.Type.Loot.Extra.Medical
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: Use
+- Inventory stats display: Lyra.Inventory.Item.HealAmount
+Can spawn as loot: true
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.HealAmount: 40
+- Lyra.Inventory.Item.Weight: 500
+
+= SPAWNING =
+
+Loot Spawning Rules:

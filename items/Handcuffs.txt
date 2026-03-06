@@ -1,0 +1,138 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Handcuffs
+|Images=Handcuffs_360.gif
+|DebugName=Handcuffs
+|ScannerCategory=Extras
+|ItemCategory=Tool
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=180
+|StackCount=
+|FuelAmount=
+|BuyCost=5
+|SellValue=
+|Weight=0.2
+}}
+
+= OTHER =
+
+Description: For the naughty ones.
+Category: EInventoryItemCategory::Tools
+Resource Type: Resource.Type.Loot.Extra
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: true
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.Durability: 180
+- Lyra.Inventory.Item.ArmorBarType: 5
+- Lyra.Inventory.Item.Weight: 200
+
+= SPAWNING =
+
+Loot Spawning Rules:
+- DAF_Anomaly_AfterDust
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Backrooms
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_BigRoom
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_CompClub
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Doors
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Giantism
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_JunkYard
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Labyrinth
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Lighthouse
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Pools
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Sewers
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_RB_ProceduralFloor_00
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_RB_ProceduralFloor_01
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_RF_ProceduralFloor_00
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Prison_ProceduralFloor_00
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_GU_ProceduralFloor_00
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_GU_ProceduralFloor_01
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_FM_ProceduralFloor_00
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_F_ProceduralFloor_00
+  - SpawnChance: 3% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false

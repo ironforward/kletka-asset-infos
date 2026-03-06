@@ -1,0 +1,49 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Gruel
+|Images=Gruel_360.gif
+|DebugName=Gruel
+|ScannerCategory=Extras
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=3
+|FuelAmount=10
+|BuyCost=
+|SellValue=
+|Weight=0.5
+}}
+
+= OTHER =
+
+Description: Fills the stomach, empties the soul.
+Category: EInventoryItemCategory::Resource
+Resource Type: Resource.Type.Loot.Extra.Medical
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: Consume
+- Inventory stats display: Lyra.Inventory.Item.HealAmount
+Can spawn as loot: true
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.HealAmount: 15
+- Lyra.Inventory.Item.MaxCount: 3
+- Lyra.Inventory.Item.FuelAdd: 10
+- Lyra.Inventory.Item.Weight: 500
+
+= SPAWNING =
+
+Loot Spawning Rules:
+- DAF_Prison_ProceduralFloor_00
+  - SpawnChance: 4% ± 1% + 1% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 2 + 0 per player
+  - Ignore Type-Based Adjustments: false

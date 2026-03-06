@@ -1,0 +1,39 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Cassette
+|Images=Cassette_360.gif
+|DebugName=
+|ScannerCategory=
+|ItemCategory=Craft Resource
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=10
+|FuelAmount=
+|BuyCost=
+|SellValue=
+|Weight=
+}}
+
+= OTHER =
+
+Description: Rumor has it that the Kletka is very greedy when it comes to organic essences. Maybe we should try to feed her a couple?
+Category: EInventoryItemCategory::CraftResource
+Resource Type: NO_TAG_NAME
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.MaxCount: 10
+
+= SPAWNING =

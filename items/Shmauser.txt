@@ -1,0 +1,51 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Shmauser
+|Images=Shmauser_360.gif
+|DebugName=Shmauser
+|ScannerCategory=Tools
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=yes
+|KletkaMouthStorage=yes
+|Enchantable=yes
+|MagazineSize=20
+|SpareAmmo=0
+|Durability=100
+|StackCount=
+|FuelAmount=
+|BuyCost=5
+|SellValue=4
+|Weight=2
+}}
+
+= OTHER =
+
+Description: Smells like the old days. Like my grandpa’s garage.
+Category: EInventoryItemCategory::Weapon
+Resource Type: Resource.Type.Loot.Tool.Weapon
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: true
+Can spawn with random enchantments: true
+Can spawn with random stats: 
+- Lyra.Inventory.Item.Durability [13, 20]
+Initial item stats:
+- Lyra.Inventory.Item.Weight: 2000
+- Lyra.ShooterGame.Weapon.MagazineSize: 20
+- Lyra.ShooterGame.Weapon.MagazineAmmo: 20
+- Lyra.ShooterGame.Weapon.SpareAmmo: 0
+- Lyra.Inventory.Item.Durability: 100
+
+= SPAWNING =
+
+Loot Spawning Rules:
+- DAF_Prison_ProceduralFloor_00
+  - SpawnChance: 2% ± 0.5% + 0.5% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false

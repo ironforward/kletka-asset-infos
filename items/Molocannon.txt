@@ -1,0 +1,76 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Molocannon
+|Images=Molocannon_360.gif
+|DebugName=Molocannon
+|ScannerCategory=Tools
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=yes
+|KletkaMouthStorage=yes
+|Enchantable=yes
+|MagazineSize=1
+|SpareAmmo=3
+|Durability=20
+|StackCount=
+|FuelAmount=
+|BuyCost=5
+|SellValue=7
+|Weight=2
+}}
+
+= OTHER =
+
+Description: A powerful single-shot gun.
+Category: EInventoryItemCategory::Weapon
+Resource Type: Resource.Type.Loot.Tool.Weapon
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: true
+Can spawn with random enchantments: true
+Can spawn with random stats: 
+- Lyra.Inventory.Item.Durability [13, 20]
+Initial item stats:
+- Lyra.Inventory.Item.Weight: 2000
+- Lyra.ShooterGame.Weapon.MagazineSize: 1
+- Lyra.ShooterGame.Weapon.MagazineAmmo: 1
+- Lyra.ShooterGame.Weapon.SpareAmmo: 3
+- Lyra.Inventory.Item.Durability: 20
+
+= SPAWNING =
+
+Loot Spawning Rules:
+- DAF_Anomaly_Backrooms
+  - SpawnChance: 3.5% ± 1% + 0.5% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Pools
+  - SpawnChance: 3.5% ± 1% + 0.5% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Sewers
+  - SpawnChance: 3.5% ± 1% + 0.5% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_RB_ProceduralFloor_00
+  - SpawnChance: 3.5% ± 1% + 0.5% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_RB_ProceduralFloor_01
+  - SpawnChance: 3.5% ± 1% + 0.5% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Prison_ProceduralFloor_00
+  - SpawnChance: 2% ± 1% + 0.4% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false

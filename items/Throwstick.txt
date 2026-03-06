@@ -1,0 +1,39 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Throwstick
+|Images=Throwstick_360.gif
+|DebugName=
+|ScannerCategory=
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=yes
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=10
+|FuelAmount=
+|BuyCost=5
+|SellValue=0
+|Weight=
+}}
+
+= OTHER =
+
+Description: A real man's weapon.
+Category: EInventoryItemCategory::Weapon
+Resource Type: NO_TAG_NAME
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: Throw
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.MaxCount: 10
+
+= SPAWNING =

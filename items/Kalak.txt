@@ -1,0 +1,46 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Kalak
+|Images=Kalak_360.gif
+|DebugName=Kalak
+|ScannerCategory=Tools
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=yes
+|KletkaMouthStorage=yes
+|Enchantable=yes
+|MagazineSize=30
+|SpareAmmo=0
+|Durability=140
+|StackCount=
+|FuelAmount=
+|BuyCost=5
+|SellValue=5
+|Weight=4.5
+}}
+
+= OTHER =
+
+Description: An ancient evil possessed this rifle, turning it into the eternally jamming—yet still murderous—Kalak that fires chunks of meat.
+Category: EInventoryItemCategory::Weapon
+Resource Type: Resource.Type.Loot.Tool.Weapon
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: true
+Can spawn with random enchantments: true
+Can spawn with random stats: 
+- Lyra.Inventory.Item.Durability [70, 140]
+Initial item stats:
+- Lyra.Inventory.Item.Weight: 4500
+- Lyra.ShooterGame.Weapon.MagazineSize: 30
+- Lyra.ShooterGame.Weapon.MagazineAmmo: 30
+- Lyra.ShooterGame.Weapon.SpareAmmo: 0
+- Lyra.Inventory.Item.Durability: 140
+
+= SPAWNING =
+
+Loot Spawning Rules:

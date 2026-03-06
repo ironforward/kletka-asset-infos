@@ -1,0 +1,46 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Coggy
+|Images=Coggy_360.gif
+|DebugName=Coggy
+|ScannerCategory=
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=yes
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=10
+|FuelAmount=
+|BuyCost=5
+|SellValue=0
+|Weight=
+}}
+
+= OTHER =
+
+Description: NO_DESCRIPTION
+Category: EInventoryItemCategory::Weapon
+Resource Type: Resource.Type.Loot.Extra
+Resource Spawn Type: ERoResourceSpawnType::Random
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: Throw
+- Inventory stats display: 
+Can spawn as loot: true
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.MaxCount: 10
+
+= SPAWNING =
+
+Loot Spawning Rules:
+- DAF_F_ProceduralFloor_00
+  - SpawnChance: 70% ± 0% + 2% per player
+  - MinAmount: 4 + 1 per player
+  - MaxAmount: 14 + 1 per player
+  - Ignore Type-Based Adjustments: false

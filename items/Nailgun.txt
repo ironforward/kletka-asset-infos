@@ -1,0 +1,77 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Nailgun
+|Images=Nailgun_360.gif
+|DebugName=Nailgun
+|ScannerCategory=Tools
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=yes
+|KletkaMouthStorage=yes
+|Enchantable=yes
+|MagazineSize=50
+|SpareAmmo=0
+|Durability=180
+|StackCount=
+|FuelAmount=
+|BuyCost=5
+|SellValue=5
+|Weight=1.8
+}}
+
+= OTHER =
+
+Description: An imported submachine gun, an echo of war. Due to the lack of ammunition, it was modified to fire nails.
+Category: EInventoryItemCategory::Weapon
+Resource Type: Resource.Type.Loot.Tool.Weapon
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: true
+Can spawn with random enchantments: true
+Can spawn with random stats: 
+- Lyra.Inventory.Item.Durability [70, #]
+Initial item stats:
+- Lyra.Inventory.Item.Weight: 1800
+- Lyra.ShooterGame.Weapon.MagazineSize: 50
+- Lyra.ShooterGame.Weapon.MagazineAmmo: 50
+- Lyra.ShooterGame.Weapon.SpareAmmo: 0
+- Lyra.Inventory.Item.Durability: 180
+- Lyra.Inventory.Item.MaxDurability: 180
+
+= SPAWNING =
+
+Loot Spawning Rules:
+- DAF_Anomaly_JunkYard
+  - SpawnChance: 4% ± 1% + 0.6% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_RF_ProceduralFloor_00
+  - SpawnChance: 4% ± 1% + 0.6% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_GU_ProceduralFloor_00
+  - SpawnChance: 4% ± 1% + 0.6% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_GU_ProceduralFloor_01
+  - SpawnChance: 4% ± 1% + 0.6% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_FM_ProceduralFloor_00
+  - SpawnChance: 4% ± 1% + 0.6% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_F_ProceduralFloor_00
+  - SpawnChance: 4.5% ± 1% + 1% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false

@@ -1,0 +1,42 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Extinguisher
+|Images=Extinguisher_360.gif
+|DebugName=
+|ScannerCategory=
+|ItemCategory=Tool
+|FuelRackStorage=no
+|ToolRackStorage=yes
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=350
+|StackCount=
+|FuelAmount=
+|BuyCost=5
+|SellValue=
+|Weight=4
+}}
+
+= OTHER =
+
+Description: NO_DESCRIPTION
+Category: EInventoryItemCategory::Tools
+Resource Type: NO_TAG_NAME
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.Durability: 350
+- Lyra.Inventory.Item.ArmorBarType: 5
+- Lyra.Inventory.Item.Weight: 4000
+- Lyra.Inventory.Item.MaxDurability: 350
+
+= SPAWNING =

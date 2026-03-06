@@ -1,0 +1,44 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Gas Can
+|Images=GasCan_360.gif
+|DebugName=
+|ScannerCategory=
+|ItemCategory=
+|FuelRackStorage=yes
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=50
+|StackCount=
+|FuelAmount=60
+|BuyCost=
+|SellValue=
+|Weight=10
+}}
+
+= OTHER =
+
+Description: Refuel the Kletka’s tank.
+Category: EInventoryItemCategory::Resource
+Resource Type: NO_TAG_NAME
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: Drink
+- Inventory stats display: Lyra.Inventory.Item.HealAmount
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.Durability: 50
+- Lyra.Inventory.Item.TankSpoil: 0
+- Lyra.Inventory.Item.Weight: 10000
+- Lyra.Inventory.Item.FuelAdd: 60
+- Lyra.Inventory.Item.MaxDurability: 100
+- Lyra.Inventory.Item.HealAmount: 3
+
+= SPAWNING =

@@ -1,0 +1,39 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Flashlight
+|Images=Flashlight_360.gif
+|DebugName=
+|ScannerCategory=
+|ItemCategory=Tool
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=
+|FuelAmount=
+|BuyCost=
+|SellValue=
+|Weight=
+}}
+
+= OTHER =
+
+Description: NO_DESCRIPTION
+Category: EInventoryItemCategory::Tools
+Resource Type: NO_TAG_NAME
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: false
+Can be in inventory: false
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.ArmorBarType: 5
+
+= SPAWNING =

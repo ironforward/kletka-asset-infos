@@ -1,0 +1,38 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Poorifier
+|Images=Poorifier_360.gif
+|DebugName=
+|ScannerCategory=
+|ItemCategory=Tool
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=no
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=
+|FuelAmount=
+|BuyCost=
+|SellValue=
+|Weight=
+}}
+
+= OTHER =
+
+Description: Squishy demolition expert with highly questionable taste in ammunition. He doesn't aim to shoot but he sure shoots to kill. Every shot landed is a direct hit to one's dignity.
+Category: EInventoryItemCategory::Tools
+Resource Type: NO_TAG_NAME
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: false
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+
+= SPAWNING =

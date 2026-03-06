@@ -1,0 +1,50 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Boltspitter
+|Images=Boltspitter_360.gif
+|DebugName=Boltspitter
+|ScannerCategory=Tools
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=yes
+|KletkaMouthStorage=yes
+|Enchantable=yes
+|MagazineSize=200
+|SpareAmmo=
+|Durability=350
+|StackCount=
+|FuelAmount=
+|BuyCost=5
+|SellValue=6
+|Weight=30
+}}
+
+= OTHER =
+
+Description: The rotor howls. So do the enemies.
+Category: EInventoryItemCategory::Weapon
+Resource Type: Resource.Type.Loot.Tool.Weapon
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: true
+Can spawn with random enchantments: true
+Can spawn with random stats: 
+- Lyra.Inventory.Item.Durability [70, #]
+Initial item stats:
+- Lyra.Inventory.Item.Weight: 30000
+- Lyra.ShooterGame.Weapon.MagazineSize: 200
+- Lyra.ShooterGame.Weapon.MagazineAmmo: 200
+- Lyra.Inventory.Item.Durability: 350
+
+= SPAWNING =
+
+Loot Spawning Rules:
+- DAF_Prison_ProceduralFloor_00
+  - SpawnChance: 1% ± 0.5% + 0.3% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false

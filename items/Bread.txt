@@ -1,0 +1,73 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Loaf of Bread
+|Images=LoafofBread_360.gif
+|DebugName=Bread
+|ScannerCategory=Extras
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=
+|FuelAmount=5
+|BuyCost=
+|SellValue=
+|Weight=0.25
+}}
+
+= OTHER =
+
+Description: A loaf of bread. About 10 years old.
+Category: EInventoryItemCategory::Resource
+Resource Type: Resource.Type.Loot.Extra.Medical
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: Consume
+- Inventory stats display: Lyra.Inventory.Item.HealAmount
+Can spawn as loot: true
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.HealAmount: 12
+- Lyra.Inventory.Item.FuelAdd: 5
+- Lyra.Inventory.Item.Weight: 250
+
+= SPAWNING =
+
+Loot Spawning Rules:
+- DAF_Anomaly_Backrooms
+  - SpawnChance: 10% ± 0% + 1% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Pools
+  - SpawnChance: 10% ± 0% + 1% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Sewers
+  - SpawnChance: 10% ± 0% + 1% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_RB_ProceduralFloor_00
+  - SpawnChance: 10% ± 0% + 1% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_RB_ProceduralFloor_01
+  - SpawnChance: 10% ± 0% + 1% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Prison_ProceduralFloor_00
+  - SpawnChance: 10% ± 0% + 1% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false

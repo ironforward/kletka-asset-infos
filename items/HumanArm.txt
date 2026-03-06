@@ -1,0 +1,42 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Human Arm
+|Images=HumanArm_360.gif
+|DebugName=
+|ScannerCategory=
+|ItemCategory=Tool
+|FuelRackStorage=no
+|ToolRackStorage=yes
+|KletkaMouthStorage=yes
+|Enchantable=yes
+|MagazineSize=
+|SpareAmmo=
+|Durability=100
+|StackCount=
+|FuelAmount=4
+|BuyCost=5
+|SellValue=
+|Weight=1.5
+}}
+
+= OTHER =
+
+Description: NO_DESCRIPTION
+Category: EInventoryItemCategory::Tools
+Resource Type: NO_TAG_NAME
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.Durability: 100
+- Lyra.Inventory.Item.ArmorBarType: 5
+- Lyra.Inventory.Item.Weight: 1500
+- Lyra.Inventory.Item.FuelAdd: 4
+
+= SPAWNING =

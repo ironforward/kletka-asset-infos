@@ -1,0 +1,49 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Mop
+|Images=Mop_360.gif
+|DebugName=Mop
+|ScannerCategory=Tools
+|ItemCategory=Tool
+|FuelRackStorage=no
+|ToolRackStorage=yes
+|KletkaMouthStorage=yes
+|Enchantable=yes
+|MagazineSize=
+|SpareAmmo=
+|Durability=100
+|StackCount=
+|FuelAmount=
+|BuyCost=5
+|SellValue=3
+|Weight=1.5
+}}
+
+= OTHER =
+
+Description: Mop's handle usage is only for its intended purpose!
+Category: EInventoryItemCategory::Tools
+Resource Type: Resource.Type.Loot.Tool
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: true
+Can spawn with random enchantments: true
+Can spawn with random stats: 
+- Lyra.Inventory.Item.Durability [70, #]
+Initial item stats:
+- Lyra.Inventory.Item.Durability: 100
+- Lyra.Inventory.Item.ArmorBarType: 5
+- Lyra.Inventory.Item.Weight: 1500
+
+= SPAWNING =
+
+Loot Spawning Rules:
+- DAF_Prison_ProceduralFloor_00
+  - SpawnChance: 5% ± 1% + 2% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false

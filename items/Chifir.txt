@@ -1,0 +1,50 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Chifir
+|Images=Chifir_360.gif
+|DebugName=Chifir
+|ScannerCategory=Extras
+|ItemCategory=Extra
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=100
+|StackCount=
+|FuelAmount=14
+|BuyCost=
+|SellValue=
+|Weight=0.5
+}}
+
+= OTHER =
+
+Description: A brutal prison tea concentrate. Kicks your brain into overdrive, then... You'll see...
+Category: EInventoryItemCategory::Resource
+Resource Type: Resource.Type.Loot.Extra
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: Drink
+- Inventory stats display: 
+Can spawn as loot: true
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.HealAmount: 27
+- Lyra.Inventory.Item.Durability: 100
+- Lyra.Inventory.Item.MaxDurability: 100
+- Lyra.Inventory.Item.Weight: 500
+- Lyra.Inventory.Item.FuelAdd: 14
+
+= SPAWNING =
+
+Loot Spawning Rules:
+- DAF_Prison_ProceduralFloor_00
+  - SpawnChance: 2% ± 1% + 1% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 2 + 0 per player
+  - Ignore Type-Based Adjustments: false

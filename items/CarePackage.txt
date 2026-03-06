@@ -1,0 +1,45 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Care Package
+|Images=CarePackage_360.gif
+|DebugName=CarePackage
+|ScannerCategory=Extras
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=no
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=
+|FuelAmount=
+|BuyCost=
+|SellValue=
+|Weight=
+}}
+
+= OTHER =
+
+Description: NO_DESCRIPTION
+Category: EInventoryItemCategory::Resource
+Resource Type: Resource.Type.Loot.Extra.Medical
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: false
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: true
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+
+= SPAWNING =
+
+Loot Spawning Rules:
+- DAF_Prison_ProceduralFloor_00
+  - SpawnChance: 8% ± 1% + 2% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false

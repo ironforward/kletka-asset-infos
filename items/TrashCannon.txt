@@ -1,0 +1,81 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Junkhurler
+|Images=Junkhurler_360.gif
+|DebugName=TrashCannon
+|ScannerCategory=Tools
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=yes
+|MagazineSize=-1
+|SpareAmmo=3
+|Durability=25
+|StackCount=
+|FuelAmount=
+|BuyCost=5
+|SellValue=4
+|Weight=9.5
+}}
+
+= OTHER =
+
+Description: The trash can is a part of you, as much as you are a part of it.
+Category: EInventoryItemCategory::Weapon
+Resource Type: Resource.Type.Loot.Tool.Weapon
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: true
+Can spawn with random enchantments: true
+Can spawn with random stats: 
+- Lyra.Inventory.Item.Durability [10, 25]
+Initial item stats:
+- Lyra.Inventory.Item.Weight: 9500
+- Lyra.ShooterGame.Weapon.MagazineSize: -1
+- Lyra.ShooterGame.Weapon.MagazineAmmo: 1
+- Lyra.ShooterGame.Weapon.SpareAmmo: 3
+- Lyra.Inventory.Item.Durability: 25
+
+= SPAWNING =
+
+Loot Spawning Rules:
+- DAF_Anomaly_Backrooms
+  - SpawnChance: 5% ± 1% + 0.7% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Pools
+  - SpawnChance: 5% ± 1% + 0.7% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Sewers
+  - SpawnChance: 5% ± 1% + 0.7% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_RB_ProceduralFloor_00
+  - SpawnChance: 5% ± 1% + 0.7% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_RB_ProceduralFloor_01
+  - SpawnChance: 5% ± 1% + 0.7% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Prison_ProceduralFloor_00
+  - SpawnChance: 5% ± 1% + 0.7% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_F_ProceduralFloor_00
+  - SpawnChance: 3% ± 1% + 1% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false

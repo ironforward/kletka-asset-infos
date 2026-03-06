@@ -1,0 +1,42 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Blueberry
+|Images=Blueberry_360.gif
+|DebugName=
+|ScannerCategory=
+|ItemCategory=
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=10
+|FuelAmount=1
+|BuyCost=
+|SellValue=
+|Weight=0.05
+}}
+
+= OTHER =
+
+Description: A small wild berry with a rich, sweet flavor and medicinal properties.
+Category: EInventoryItemCategory::Resource
+Resource Type: NO_TAG_NAME
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: Consume
+- Inventory stats display: Lyra.Inventory.Item.HealAmount
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.HealAmount: 3
+- Lyra.Inventory.Item.FuelAdd: 1
+- Lyra.Inventory.Item.Weight: 50
+- Lyra.Inventory.Item.MaxCount: 10
+
+= SPAWNING =

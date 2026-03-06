@@ -1,0 +1,43 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Hogweed Spore
+|Images=HogweedSpore_360.gif
+|DebugName=HogweedSpore
+|ScannerCategory=Fuel
+|ItemCategory=Fuel
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=16
+|FuelAmount=2
+|BuyCost=
+|SellValue=
+|Weight=0.3
+}}
+
+= OTHER =
+
+Description: Due to their volatile nature, hogweed spores can serve as both fuel and food.
+Category: EInventoryItemCategory::Resource
+Resource Type: Resource.Type.Loot.Fuel
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: Consume
+- Inventory stats display: Lyra.Inventory.Item.HealAmount
+Can spawn as loot: true
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.MaxCount: 16
+- Lyra.Inventory.Item.FuelAdd: 2
+- Lyra.Inventory.Item.Weight: 300
+
+= SPAWNING =
+
+Loot Spawning Rules:

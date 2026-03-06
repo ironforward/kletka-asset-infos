@@ -1,0 +1,40 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Eyeroller
+|Images=Eyeroller_360.gif
+|DebugName=
+|ScannerCategory=
+|ItemCategory=
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=
+|FuelAmount=10
+|BuyCost=
+|SellValue=
+|Weight=3
+}}
+
+= OTHER =
+
+Description: NO_DESCRIPTION
+Category: NO_CATEGORY
+Resource Type: NO_TAG_NAME
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.Weight: 3000
+- Lyra.Inventory.Item.FuelAdd: 10
+
+= SPAWNING =

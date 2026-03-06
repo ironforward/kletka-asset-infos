@@ -1,0 +1,46 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Live Beer
+|Images=LiveBeer_360.gif
+|DebugName=LiveBeer
+|ScannerCategory=Extras
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=100
+|StackCount=
+|FuelAmount=30
+|BuyCost=
+|SellValue=
+|Weight=1.1
+}}
+
+= OTHER =
+
+Description: A revitalizing drink created by an unknown Gigastructure entrepreneur—because even here, small business keeps the lights on.
+Alcohol can harm your health. Drink responsibly.
+Category: EInventoryItemCategory::Resource
+Resource Type: Resource.Type.Loot.Extra.Medical
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: Drink
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.HealAmount: 80
+- Lyra.Inventory.Item.Weight: 1100
+- Lyra.Inventory.Item.MaxDurability: 100
+- Lyra.Inventory.Item.Durability: 100
+- Lyra.Inventory.Item.FuelAdd: 30
+
+= SPAWNING =
+
+Loot Spawning Rules:

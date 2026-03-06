@@ -1,0 +1,44 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Monster Meat
+|Images=MonsterMeat_360.gif
+|DebugName=MonsterFlesh
+|ScannerCategory=
+|ItemCategory=Extra
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=12
+|FuelAmount=4
+|BuyCost=5
+|SellValue=0
+|Weight=0.35
+}}
+
+= OTHER =
+
+Description: NO_DESCRIPTION
+Category: EInventoryItemCategory::Resource
+Resource Type: Resource.Type.Loot.Extra
+Resource Spawn Type: ERoResourceSpawnType::Random
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: Consume
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.MaxCount: 12
+- Lyra.Inventory.Item.FuelAdd: 4
+- Lyra.Inventory.Item.HealAmount: 2
+- Lyra.Inventory.Item.Weight: 350
+
+= SPAWNING =
+
+Loot Spawning Rules:

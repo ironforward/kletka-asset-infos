@@ -1,0 +1,54 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Pickaxe
+|Images=Pickaxe_360.gif
+|DebugName=Pickaxe
+|ScannerCategory=Tools
+|ItemCategory=Tool
+|FuelRackStorage=no
+|ToolRackStorage=yes
+|KletkaMouthStorage=yes
+|Enchantable=yes
+|MagazineSize=
+|SpareAmmo=
+|Durability=100
+|StackCount=
+|FuelAmount=
+|BuyCost=5
+|SellValue=
+|Weight=0.9
+}}
+
+= OTHER =
+
+Description: NO_DESCRIPTION
+Category: EInventoryItemCategory::Tools
+Resource Type: Resource.Type.Loot.Tool
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: true
+Can spawn with random enchantments: true
+Can spawn with random stats: 
+- Lyra.Inventory.Item.Durability [70, #]
+Initial item stats:
+- Lyra.Inventory.Item.Durability: 100
+- Lyra.Inventory.Item.ArmorBarType: 5
+- Lyra.Inventory.Item.Weight: 900
+
+= SPAWNING =
+
+Loot Spawning Rules:
+- DAF_RF_ProceduralFloor_00
+  - SpawnChance: 44% ± 1% + -5% per player
+  - MinAmount: 1 + 0 per player
+  - MaxAmount: 2 + 1 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_FM_ProceduralFloor_00
+  - SpawnChance: 44% ± 1% + -5% per player
+  - MinAmount: 1 + 0 per player
+  - MaxAmount: 2 + 1 per player
+  - Ignore Type-Based Adjustments: false

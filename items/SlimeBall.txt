@@ -1,0 +1,42 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Slime ball
+|Images=Slimeball_360.gif
+|DebugName=SlimeBall
+|ScannerCategory=
+|ItemCategory=Extra
+|FuelRackStorage=no
+|ToolRackStorage=no
+|KletkaMouthStorage=yes
+|Enchantable=no
+|MagazineSize=
+|SpareAmmo=
+|Durability=
+|StackCount=12
+|FuelAmount=2
+|BuyCost=
+|SellValue=
+|Weight=
+}}
+
+= OTHER =
+
+Description: NO_DESCRIPTION
+Category: EInventoryItemCategory::Resource
+Resource Type: Resource.Type.Loot.Extra
+Resource Spawn Type: ERoResourceSpawnType::Random
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: false
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.MaxCount: 12
+- Lyra.Inventory.Item.FuelAdd: 2
+
+= SPAWNING =
+
+Loot Spawning Rules:

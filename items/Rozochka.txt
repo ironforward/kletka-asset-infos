@@ -1,0 +1,43 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Rozochka
+|Images=Rozochka_360.gif
+|DebugName=Rozochka
+|ScannerCategory=Tools
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=yes
+|KletkaMouthStorage=yes
+|Enchantable=yes
+|MagazineSize=
+|SpareAmmo=
+|Durability=25
+|StackCount=10
+|FuelAmount=
+|BuyCost=2
+|SellValue=1
+|Weight=0.4
+}}
+
+= OTHER =
+
+Description: A legendary weapon of the capital floors, perfect for settling any conflict before it even starts.
+Category: EInventoryItemCategory::Weapon
+Resource Type: Resource.Type.Loot.Tool.Weapon
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: true
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.Durability: 25
+- Lyra.Inventory.Item.Weight: 400
+- Lyra.Inventory.Item.MaxCount: 10
+
+= SPAWNING =
+
+Loot Spawning Rules:

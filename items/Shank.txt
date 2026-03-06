@@ -1,0 +1,43 @@
+= PARSED =
+
+{{ItemInfoV2
+|Name=Shank
+|Images=Shank_360.gif
+|DebugName=Shank
+|ScannerCategory=Tools
+|ItemCategory=Weapon
+|FuelRackStorage=no
+|ToolRackStorage=yes
+|KletkaMouthStorage=yes
+|Enchantable=yes
+|MagazineSize=
+|SpareAmmo=
+|Durability=50
+|StackCount=
+|FuelAmount=
+|BuyCost=5
+|SellValue=4
+|Weight=1.5
+}}
+
+= OTHER =
+
+Description: Made of concrete. Made by locals. Made for killing.
+Category: EInventoryItemCategory::Weapon
+Resource Type: Resource.Type.Loot.Tool.Weapon
+Resource Spawn Type: NO_SPAWN_TYPE
+Can be picked up: true
+Can be in inventory: true
+- Inventory action: 
+- Inventory stats display: 
+Can spawn as loot: true
+Can spawn with random enchantments: false
+Can spawn with random stats: false
+Initial item stats:
+- Lyra.Inventory.Item.Durability: 50
+- Lyra.Inventory.Item.ArmorBarType: 5
+- Lyra.Inventory.Item.Weight: 1500
+
+= SPAWNING =
+
+Loot Spawning Rules:
