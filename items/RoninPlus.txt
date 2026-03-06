@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Ronin Plus
 |Images=RoninPlus_360.gif
 |DebugName=RoninPlus

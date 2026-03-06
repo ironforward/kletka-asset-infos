@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Snowball
 |Images=Snowball_360.gif
 |DebugName=
@@ -36,5 +36,6 @@ Can spawn with random stats: false
 Initial item stats:
 - Lyra.Inventory.Item.MaxCount: 8
 - Lyra.Inventory.Item.Weight: 400
+- BaseDamage: 0.4
 
 = SPAWNING =

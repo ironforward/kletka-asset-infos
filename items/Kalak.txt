@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Kalak
 |Images=Kalak_360.gif
 |DebugName=Kalak
@@ -40,6 +40,9 @@ Initial item stats:
 - Lyra.ShooterGame.Weapon.MagazineAmmo: 30
 - Lyra.ShooterGame.Weapon.SpareAmmo: 0
 - Lyra.Inventory.Item.Durability: 140
+- BaseDamage: 5.7
+Material Damage Multipliers:
+- SurfaceType.Wood: 0.6
 
 = SPAWNING =
 

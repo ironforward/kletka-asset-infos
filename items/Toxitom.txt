@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Toxitom
 |Images=Toxitom_360.gif
 |DebugName=Toxitom

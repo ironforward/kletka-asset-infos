@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Soapun
 |Images=Soapun_360.gif
 |DebugName=Soapun
@@ -38,6 +38,7 @@ Initial item stats:
 - Lyra.Inventory.Item.Durability: 50
 - Lyra.Inventory.Item.ArmorBarType: 5
 - Lyra.Inventory.Item.MaxDurability: 50
+- BaseDamage: 5
 
 = SPAWNING =
 

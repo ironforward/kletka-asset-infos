@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Live Beer
 |Images=LiveBeer_360.gif
 |DebugName=LiveBeer

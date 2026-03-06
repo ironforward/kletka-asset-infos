@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Flare Gun
 |Images=FlareGun_360.gif
 |DebugName=FlareGun

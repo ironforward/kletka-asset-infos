@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Human Arm
 |Images=HumanArm_360.gif
 |DebugName=

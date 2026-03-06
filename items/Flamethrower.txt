@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Flamethrower
 |Images=Flamethrower_360.gif
 |DebugName=
@@ -39,5 +39,6 @@ Initial item stats:
 - Lyra.Inventory.Item.MaxDurability: 200
 - Lyra.ShooterGame.Weapon.MagazineSize: 100
 - Lyra.ShooterGame.Weapon.MagazineAmmo: 100
+- BaseDamage: 2.5
 
 = SPAWNING =

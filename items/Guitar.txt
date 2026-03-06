@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Guitar
 |Images=Guitar_360.gif
 |DebugName=Guitar
@@ -38,6 +38,9 @@ Initial item stats:
 - Lyra.Inventory.Item.Durability: 50
 - Lyra.Inventory.Item.ArmorBarType: 5
 - Lyra.Inventory.Item.Weight: 1500
+- BaseDamage: 2.5
+Material Damage Multipliers:
+- SurfaceType.Jelly: 4.5
 
 = SPAWNING =
 

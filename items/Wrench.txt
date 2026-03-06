@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Wrench
 |Images=Wrench_360.gif
 |DebugName=Wrench
@@ -38,6 +38,7 @@ Initial item stats:
 - Lyra.Inventory.Item.Durability: 100
 - Lyra.Inventory.Item.ArmorBarType: 5
 - Lyra.Inventory.Item.Weight: 500
+- BaseDamage: 6
 
 = SPAWNING =
 

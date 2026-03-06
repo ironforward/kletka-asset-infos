@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Crowbar
 |Images=Crowbar_360.gif
 |DebugName=Crowbar
@@ -38,6 +38,7 @@ Initial item stats:
 - Lyra.Inventory.Item.Durability: 180
 - Lyra.Inventory.Item.ArmorBarType: 5
 - Lyra.Inventory.Item.Weight: 200
+- BaseDamage: 7
 
 = SPAWNING =
 

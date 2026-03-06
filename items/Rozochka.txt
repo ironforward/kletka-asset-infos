@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Rozochka
 |Images=Rozochka_360.gif
 |DebugName=Rozochka
@@ -37,6 +37,7 @@ Initial item stats:
 - Lyra.Inventory.Item.Durability: 25
 - Lyra.Inventory.Item.Weight: 400
 - Lyra.Inventory.Item.MaxCount: 10
+- BaseDamage: 2.5
 
 = SPAWNING =
 

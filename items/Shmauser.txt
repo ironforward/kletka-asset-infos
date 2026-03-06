@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Shmauser
 |Images=Shmauser_360.gif
 |DebugName=Shmauser
@@ -40,6 +40,7 @@ Initial item stats:
 - Lyra.ShooterGame.Weapon.MagazineAmmo: 20
 - Lyra.ShooterGame.Weapon.SpareAmmo: 0
 - Lyra.Inventory.Item.Durability: 100
+- BaseDamage: 9
 
 = SPAWNING =
 

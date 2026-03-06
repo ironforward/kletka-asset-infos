@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Extinguisher
 |Images=Extinguisher_360.gif
 |DebugName=

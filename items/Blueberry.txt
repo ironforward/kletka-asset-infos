@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Blueberry
 |Images=Blueberry_360.gif
 |DebugName=

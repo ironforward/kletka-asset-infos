@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Mop
 |Images=Mop_360.gif
 |DebugName=Mop
@@ -38,6 +38,9 @@ Initial item stats:
 - Lyra.Inventory.Item.Durability: 100
 - Lyra.Inventory.Item.ArmorBarType: 5
 - Lyra.Inventory.Item.Weight: 1500
+- BaseDamage: 5
+Material Damage Multipliers:
+- SurfaceType.Jelly: 4.5
 
 = SPAWNING =
 

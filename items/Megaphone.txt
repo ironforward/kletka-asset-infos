@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Megaphone
 |Images=Megaphone_360.gif
 |DebugName=Megaphone

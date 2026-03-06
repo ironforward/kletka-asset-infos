@@ -1,6 +1,6 @@
 = PARSED =
 
-{{ItemInfoV2
+{{ItemInfoBoxV2
 |Name=Shank
 |Images=Shank_360.gif
 |DebugName=Shank
@@ -37,6 +37,7 @@ Initial item stats:
 - Lyra.Inventory.Item.Durability: 50
 - Lyra.Inventory.Item.ArmorBarType: 5
 - Lyra.Inventory.Item.Weight: 1500
+- BaseDamage: 2.8
 
 = SPAWNING =
 
