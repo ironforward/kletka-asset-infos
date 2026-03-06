@@ -38,7 +38,7 @@ Initial item stats:
 - Lyra.Inventory.Item.Durability: 100
 - Lyra.Inventory.Item.ArmorBarType: 5
 - Lyra.Inventory.Item.Weight: 1500
-- BaseDamage: 5
+- BaseDamage: 50
 Material Damage Multipliers:
 - SurfaceType.Jelly: 4.5
 

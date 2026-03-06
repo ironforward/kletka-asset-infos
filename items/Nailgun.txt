@@ -41,7 +41,7 @@ Initial item stats:
 - Lyra.ShooterGame.Weapon.SpareAmmo: 0
 - Lyra.Inventory.Item.Durability: 180
 - Lyra.Inventory.Item.MaxDurability: 180
-- BaseDamage: 3
+- BaseDamage: 30
 Material Damage Multipliers:
 - SurfaceType.Wood: 0.6
 

@@ -40,7 +40,7 @@ Initial item stats:
 - Lyra.ShooterGame.Weapon.MagazineAmmo: 1
 - Lyra.ShooterGame.Weapon.SpareAmmo: 3
 - Lyra.Inventory.Item.Durability: 20
-- BaseDamage: 80
+- BaseDamage: 800
 
 = SPAWNING =
 

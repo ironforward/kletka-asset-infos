@@ -39,7 +39,7 @@ Initial item stats:
 - Lyra.ShooterGame.Weapon.MagazineSize: 200
 - Lyra.ShooterGame.Weapon.MagazineAmmo: 200
 - Lyra.Inventory.Item.Durability: 350
-- BaseDamage: 2.8
+- BaseDamage: 28
 Material Damage Multipliers:
 - SurfaceType.Wood: 0.6
 

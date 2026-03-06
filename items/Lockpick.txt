@@ -37,7 +37,7 @@ Initial item stats:
 - Lyra.Inventory.Item.Weight: 100
 - Lyra.Inventory.Item.MaxCount: 10
 - Lyra.Inventory.Item.Durability: 20
-- BaseDamage: 0.5
+- BaseDamage: 5
 
 = SPAWNING =
 

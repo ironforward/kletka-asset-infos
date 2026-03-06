@@ -35,6 +35,6 @@ Can spawn with random enchantments: false
 Can spawn with random stats: false
 Initial item stats:
 - Lyra.Inventory.Item.MaxCount: 10
-- BaseDamage: 4
+- BaseDamage: 40
 
 = SPAWNING =
