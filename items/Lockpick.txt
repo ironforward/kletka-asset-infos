@@ -44,8 +44,8 @@ Initial item stats:
 Can be bought: true
 Floor Shop Buy Cost: [2, 3] bottles
 Room Shop Buy Cost: [3, 3] bottles
-Floor Shop Buy Cost (No Ceil): [1.1, 2.9] bottles
-Room Shop Buy Cost (No Ceil): [2.4, 2.4] bottles
+Floor Shop Buy Cost (No Ceil): [1.10, 2.90] bottles
+Room Shop Buy Cost (No Ceil): [2.40, 2.40] bottles
 
 = SPAWNING =
 

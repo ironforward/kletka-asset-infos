@@ -47,7 +47,7 @@ Material Damage Multipliers:
 Can be bought: true
 Floor Shop Buy Cost: [8, 21] bottles
 Room Shop Buy Cost: [NO_MIN, NO_MAX] bottles
-Floor Shop Buy Cost (No Ceil): [7.700000000000001, 20.3] bottles
+Floor Shop Buy Cost (No Ceil): [7.70, 20.30] bottles
 Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
