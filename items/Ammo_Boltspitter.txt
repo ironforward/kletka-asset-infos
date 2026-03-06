@@ -37,6 +37,14 @@ Initial item stats:
 - Lyra.Inventory.Item.MaxCount: 30
 - Lyra.Inventory.Item.ArmorBarType: 14
 
+= SHOP =
+
+Can be bought: false
+Floor Shop Buy Cost: [NO_MIN, NO_MAX] bottles
+Room Shop Buy Cost: [NO_MIN, NO_MAX] bottles
+Floor Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
+Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
+
 = SPAWNING =
 
 Loot Spawning Rules:

@@ -41,6 +41,14 @@ Initial item stats:
 - Lyra.Inventory.Item.Durability: 100
 - Lyra.Inventory.Item.FuelAdd: 30
 
+= SHOP =
+
+Can be bought: false
+Floor Shop Buy Cost: [NO_MIN, NO_MAX] bottles
+Room Shop Buy Cost: [NO_MIN, NO_MAX] bottles
+Floor Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
+Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
+
 = SPAWNING =
 
 Loot Spawning Rules:

@@ -15,7 +15,7 @@
 |Durability=25
 |StackCount=10
 |FuelAmount=
-|BuyCost=2
+|BuyCost=
 |SellValue=1
 |Weight=0.4
 }}
@@ -38,6 +38,14 @@ Initial item stats:
 - Lyra.Inventory.Item.Weight: 400
 - Lyra.Inventory.Item.MaxCount: 10
 - BaseDamage: 25
+
+= SHOP =
+
+Can be bought: false
+Floor Shop Buy Cost: [NO_MIN, NO_MAX] bottles
+Room Shop Buy Cost: [NO_MIN, NO_MAX] bottles
+Floor Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
+Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
 

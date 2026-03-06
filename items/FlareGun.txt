@@ -15,7 +15,7 @@
 |Durability=45
 |StackCount=
 |FuelAmount=
-|BuyCost=5
+|BuyCost=11
 |SellValue=4
 |Weight=2
 }}
@@ -40,6 +40,14 @@ Initial item stats:
 - Lyra.ShooterGame.Weapon.MagazineAmmo: 1
 - Lyra.ShooterGame.Weapon.SpareAmmo: 3
 - Lyra.Inventory.Item.Durability: 45
+
+= SHOP =
+
+Can be bought: true
+Floor Shop Buy Cost: [11, 29] bottles
+Room Shop Buy Cost: [24, 24] bottles
+Floor Shop Buy Cost (No Ceil): [11, 29] bottles
+Room Shop Buy Cost (No Ceil): [24, 24] bottles
 
 = SPAWNING =
 

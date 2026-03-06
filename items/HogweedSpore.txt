@@ -38,6 +38,14 @@ Initial item stats:
 - Lyra.Inventory.Item.FuelAdd: 2
 - Lyra.Inventory.Item.Weight: 300
 
+= SHOP =
+
+Can be bought: false
+Floor Shop Buy Cost: [NO_MIN, NO_MAX] bottles
+Room Shop Buy Cost: [NO_MIN, NO_MAX] bottles
+Floor Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
+Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
+
 = SPAWNING =
 
 Loot Spawning Rules:

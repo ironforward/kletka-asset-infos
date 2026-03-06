@@ -15,7 +15,7 @@
 |Durability=
 |StackCount=30
 |FuelAmount=
-|BuyCost=5
+|BuyCost=
 |SellValue=
 |Weight=
 }}
@@ -35,5 +35,13 @@ Can spawn with random enchantments: false
 Can spawn with random stats: false
 Initial item stats:
 - Lyra.Inventory.Item.MaxCount: 30
+
+= SHOP =
+
+Can be bought: false
+Floor Shop Buy Cost: [NO_MIN, NO_MAX] bottles
+Room Shop Buy Cost: [NO_MIN, NO_MAX] bottles
+Floor Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
+Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =

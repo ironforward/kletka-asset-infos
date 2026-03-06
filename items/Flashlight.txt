@@ -36,4 +36,12 @@ Can spawn with random stats: false
 Initial item stats:
 - Lyra.Inventory.Item.ArmorBarType: 5
 
+= SHOP =
+
+Can be bought: false
+Floor Shop Buy Cost: [NO_MIN, NO_MAX] bottles
+Room Shop Buy Cost: [NO_MIN, NO_MAX] bottles
+Floor Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
+Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
+
 = SPAWNING =

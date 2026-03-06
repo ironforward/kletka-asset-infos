@@ -15,7 +15,7 @@
 |Durability=50
 |StackCount=
 |FuelAmount=
-|BuyCost=5
+|BuyCost=
 |SellValue=1
 |Weight=1.5
 }}
@@ -41,6 +41,14 @@ Initial item stats:
 - BaseDamage: 25
 Material Damage Multipliers:
 - SurfaceType.Jelly: 4.5
+
+= SHOP =
+
+Can be bought: false
+Floor Shop Buy Cost: [NO_MIN, NO_MAX] bottles
+Room Shop Buy Cost: [NO_MIN, NO_MAX] bottles
+Floor Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
+Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
 

@@ -15,7 +15,7 @@
 |Durability=50
 |StackCount=
 |FuelAmount=
-|BuyCost=5
+|BuyCost=7
 |SellValue=3
 |Weight=
 }}
@@ -39,6 +39,14 @@ Initial item stats:
 - Lyra.Inventory.Item.ArmorBarType: 5
 - Lyra.Inventory.Item.MaxDurability: 50
 - BaseDamage: 130
+
+= SHOP =
+
+Can be bought: true
+Floor Shop Buy Cost: [7, 18] bottles
+Room Shop Buy Cost: [NO_MIN, NO_MAX] bottles
+Floor Shop Buy Cost (No Ceil): [6.6000000000000005, 17.4] bottles
+Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
 

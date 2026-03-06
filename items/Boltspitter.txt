@@ -15,7 +15,7 @@
 |Durability=350
 |StackCount=
 |FuelAmount=
-|BuyCost=5
+|BuyCost=
 |SellValue=6
 |Weight=30
 }}
@@ -42,6 +42,14 @@ Initial item stats:
 - BaseDamage: 28
 Material Damage Multipliers:
 - SurfaceType.Wood: 0.6
+
+= SHOP =
+
+Can be bought: false
+Floor Shop Buy Cost: [NO_MIN, NO_MAX] bottles
+Room Shop Buy Cost: [NO_MIN, NO_MAX] bottles
+Floor Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
+Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
 
