@@ -49,4 +49,96 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
 
-Loot Spawning Rules:
+== CREATURES ==
+
+- B_Bot_Inmate_C (INVENTORY)
+  - SpawnChance: 70%
+
+== FLOORS ==
+
+- DAF_Anomaly_Backrooms
+  - SpawnChance: 27% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: # + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Pools
+  - SpawnChance: 27% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: # + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Sewers
+  - SpawnChance: 27% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: # + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_RB_ProceduralFloor_00
+  - SpawnChance: 30% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: # + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_RB_ProceduralFloor_01
+  - SpawnChance: 30% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: # + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_RF_ProceduralFloor_00
+  - SpawnChance: 30% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: # + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_FM_ProceduralFloor_00
+  - SpawnChance: 30% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: # + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_F_ProceduralFloor_00
+  - SpawnChance: 33% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: # + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_HeartOfGigastructure
+  - SpawnChance: 30% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: # + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_MindOfGigastructure
+  - SpawnChance: 30% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: # + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Rustbucket
+  - SpawnChance: 30% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: # + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_MechanicalFly
+  - SpawnChance: 30% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: # + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_MotherOfConcrete
+  - SpawnChance: 30% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: # + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Potato
+  - SpawnChance: 30% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: # + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_ShackledOne
+  - SpawnChance: 30% ± 0% + 0% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: # + 0 per player
+  - Ignore Type-Based Adjustments: false
+
+* Can spawn as floor loot in 3 of the [[Biomes|biomes]]:
+  * {{Biome|F}}
+  * {{Biome|FM}}
+  * {{Biome|RB}}
+* Can spawn on 3 of the [[Anomalies|Anomaly]] floors:
+  * [[Anomalies#Backrooms|Backrooms]]
+  * [[Anomalies#The Pool|The Pool]]
+  * [[Anomalies#The Sewers|The Sewers]]
+* Can spawn from 1 of the [[Creatures|creatures]]:
+  * {{Creature|Inmate}}

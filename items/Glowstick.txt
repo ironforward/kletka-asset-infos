@@ -48,3 +48,20 @@ Floor Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
+
+== CONTAINERS ==
+
+- B_CabinetLocker_Base_C
+  - LootItemSpawnChance: 12%
+  - SpawnChance: 30%
+  - MaxAmount: 2
+  - MaxStackCount: 1
+- B_Fridge_C
+  - SpawnChance: 15%
+  - MaxAmount: 2
+  - MaxStackCount: 1
+
+
+* Can spawn from 2 of the containers:
+  * Cabinet Locker
+  * Fridge

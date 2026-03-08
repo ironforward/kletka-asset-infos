@@ -47,4 +47,35 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
 
-Loot Spawning Rules:
+== CONTAINERS ==
+
+- B_CL_Factory_C
+  - SpawnChance: 12%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_CL_Fleshmine_C
+  - SpawnChance: 10%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_CL_Prison_C
+  - LootItemSpawnChance: 4%
+  - SpawnChance: 12%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_CL_ResidentialBlock_C
+  - SpawnChance: 4%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_SafeCase_00_C
+  - LootItemSpawnChance: 50%
+  - SpawnChance: 7%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+
+
+* Can spawn from 5 of the containers:
+  * Cabinet Locker ({{Biome|F}})
+  * Cabinet Locker ({{Biome|FM}})
+  * Cabinet Locker ({{Biome|P}})
+  * Cabinet Locker ({{Biome|RB}})
+  * Safe Box

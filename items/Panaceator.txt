@@ -49,48 +49,22 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
 
-Loot Spawning Rules:
-- DAF_Anomaly_AfterDust
-  - SpawnChance: 7.5% ± 1% + 0% per player
-  - MinAmount: 0 + 0 per player
-  - MaxAmount: 1 + 0 per player
-  - Ignore Type-Based Adjustments: false
+== CONTAINERS ==
+
+- B_CabinetLocker_Base_C
+  - LootItemSpawnChance: 12%
+  - SpawnChance: 8%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_SafeCase_00_C
+  - LootItemSpawnChance: 50%
+  - SpawnChance: 70%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+
+== FLOORS ==
+
 - DAF_Anomaly_Backrooms
-  - SpawnChance: 7.5% ± 1% + 0% per player
-  - MinAmount: 0 + 0 per player
-  - MaxAmount: 1 + 0 per player
-  - Ignore Type-Based Adjustments: false
-- DAF_Anomaly_BigRoom
-  - SpawnChance: 7.5% ± 1% + 0% per player
-  - MinAmount: 0 + 0 per player
-  - MaxAmount: 1 + 0 per player
-  - Ignore Type-Based Adjustments: false
-- DAF_Anomaly_CompClub
-  - SpawnChance: 7.5% ± 1% + 0% per player
-  - MinAmount: 0 + 0 per player
-  - MaxAmount: 1 + 0 per player
-  - Ignore Type-Based Adjustments: false
-- DAF_Anomaly_Doors
-  - SpawnChance: 7.5% ± 1% + 0% per player
-  - MinAmount: 0 + 0 per player
-  - MaxAmount: 1 + 0 per player
-  - Ignore Type-Based Adjustments: false
-- DAF_Anomaly_Giantism
-  - SpawnChance: 7.5% ± 1% + 0% per player
-  - MinAmount: 0 + 0 per player
-  - MaxAmount: 1 + 0 per player
-  - Ignore Type-Based Adjustments: false
-- DAF_Anomaly_JunkYard
-  - SpawnChance: 7.5% ± 1% + 0% per player
-  - MinAmount: 0 + 0 per player
-  - MaxAmount: 1 + 0 per player
-  - Ignore Type-Based Adjustments: false
-- DAF_Anomaly_Labyrinth
-  - SpawnChance: 7.5% ± 1% + 0% per player
-  - MinAmount: 0 + 0 per player
-  - MaxAmount: 1 + 0 per player
-  - Ignore Type-Based Adjustments: false
-- DAF_Anomaly_Lighthouse
   - SpawnChance: 7.5% ± 1% + 0% per player
   - MinAmount: 0 + 0 per player
   - MaxAmount: 1 + 0 per player
@@ -145,3 +119,17 @@ Loot Spawning Rules:
   - MinAmount: 0 + 0 per player
   - MaxAmount: 1 + 0 per player
   - Ignore Type-Based Adjustments: false
+
+* Can spawn as floor loot in 5 of the [[Biomes|biomes]]:
+  * {{Biome|F}}
+  * {{Biome|FM}}
+  * {{Biome|GU}}
+  * {{Biome|P}}
+  * {{Biome|RB}}
+* Can spawn on 3 of the [[Anomalies|Anomaly]] floors:
+  * [[Anomalies#Backrooms|Backrooms]]
+  * [[Anomalies#The Pool|The Pool]]
+  * [[Anomalies#The Sewers|The Sewers]]
+* Can spawn from 2 of the containers:
+  * Cabinet Locker
+  * Safe Box

@@ -47,3 +47,4 @@ Floor Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
+

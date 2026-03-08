@@ -46,3 +46,14 @@ Floor Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
+
+== CONTAINERS ==
+
+- B_BlackCrate_C
+  - SpawnChance: 15%
+  - MaxAmount: 5
+  - MaxStackCount: 1
+
+
+* Can spawn from 1 of the containers:
+  * Black Crate

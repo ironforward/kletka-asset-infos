@@ -47,9 +47,54 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
 
-Loot Spawning Rules:
+== CONTAINERS ==
+
+- B_Crate_03_Fleshmine_C
+  - SpawnChance: 3%
+  - MaxAmount: 1
+  - MaxStackCount: 25
+- B_Crate_03_Prison_C
+  - SpawnChance: 4%
+  - MaxAmount: 1
+  - MaxStackCount: 30
+- B_CL_Fleshmine_C
+  - SpawnChance: 10%
+  - MaxAmount: 1
+  - MaxStackCount: 35
+- B_CL_Prison_C
+  - LootItemSpawnChance: 4%
+  - SpawnChance: 10%
+  - MaxAmount: 1
+  - MaxStackCount: 40
+- B_WeaponShelf_C
+  - LootItemSpawnChance: 30%
+  - SpawnChance: 15%
+  - MaxAmount: 2
+  - MaxStackCount: 40
+- B_BlackCrate_C
+  - SpawnChance: 15%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_AirDrop_C
+  - SpawnChance: 10%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+
+== FLOORS ==
+
 - DAF_Prison_ProceduralFloor_00
   - SpawnChance: 4% ± 1% + 1% per player
   - MinAmount: 0 + 0 per player
   - MaxAmount: 2 + 0 per player
   - Ignore Type-Based Adjustments: false
+
+* Can spawn as floor loot in 1 of the [[Biomes|biomes]]:
+  * {{Biome|P}}
+* Can spawn from 7 of the containers:
+  * Air Drop
+  * Black Crate
+  * Cabinet Locker ({{Biome|FM}})
+  * Cabinet Locker ({{Biome|P}})
+  * Weapon Locker
+  * Wooden Box ({{Biome|FM}})
+  * Wooden Box ({{Biome|P}})

@@ -48,3 +48,11 @@ Floor Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
+
+== CONTAINERS ==
+
+- B_BearTrap_C
+  - SpawnChance: 100%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+

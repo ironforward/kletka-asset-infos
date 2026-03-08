@@ -47,3 +47,47 @@ Floor Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
+
+== CONTAINERS ==
+
+- B_MotherOfConcreteController_C
+  - SpawnChance: 70%
+  - MaxAmount: 2
+  - MaxStackCount: 4
+- B_MeatOrePile_C
+  - SpawnChance: 100%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_03_Fleshmine_C
+  - SpawnChance: 5%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_WoodenBarrel_C
+  - SpawnChance: 5%
+  - MaxAmount: 2
+  - MaxStackCount: 1
+
+== CREATURES ==
+
+- B_Bot_Worm_Base_C (CORPSE)
+  - SpawnChance: 60%
+  - MaxAmount: 2
+  - MaxStackCount: 4
+- B_Bot_Fleshweaver_C (CORPSE)
+  - SpawnChance: 75%
+  - MaxAmount: 2
+  - MaxStackCount: 2
+- B_Bot_Caveman_C (CORPSE)
+  - SpawnChance: 55%
+  - MaxAmount: 2
+  - MaxStackCount: 1
+
+
+* Can spawn from 3 of the [[Creatures|creatures]]:
+  * {{Creature|ConcreteChewer}}
+  * {{Creature|Fleshweaver}}
+  * {{Creature|Grubgrubber}}
+* Can spawn from 3 of the containers:
+  * Meat Ore Deposit
+  * Wooden Barrel
+  * Wooden Box ({{Biome|FM}})

@@ -49,4 +49,31 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
 
-Loot Spawning Rules:
+== CONTAINERS ==
+
+- B_Fridge_C
+  - SpawnChance: 90%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_SafeCase_Base_C
+  - LootItemSpawnChance: 55%
+  - SpawnChance: 80%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_DeadPrisoner_C
+  - SpawnChance: 100%
+  - MaxAmount: 2
+  - MaxStackCount: 1
+
+== CREATURES ==
+
+- B_Bot_Human_C (CORPSE)
+  - SpawnChance: 100%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+
+
+* Can spawn from 3 of the containers:
+  * Dead Prisoner
+  * Fridge
+  * Safe Box

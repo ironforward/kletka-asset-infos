@@ -49,4 +49,84 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
 
-Loot Spawning Rules:
+== CONTAINERS ==
+
+- B_ShackledOneController_C
+  - SpawnChance: 100%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_RustbucketController_C
+  - SpawnChance: 100%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_ProphetronController_C
+  - SpawnChance: 100%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_MechanicalFlyController_C
+  - SpawnChance: 100%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_CollegiumController_C
+  - SpawnChance: 100%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_PorkMeat_C
+  - SpawnChance: 40%
+  - MaxAmount: 2
+  - MaxStackCount: 1
+
+== CREATURES ==
+
+- B_Bot_Base_C (CORPSE)
+  - SpawnChance: 100%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Bot_Witch_C (CORPSE)
+  - SpawnChance: 80%
+  - MaxAmount: 3
+  - MaxStackCount: 1
+- B_Bot_Bighead_C (CORPSE)
+  - SpawnChance: 80%
+  - MaxAmount: 3
+  - MaxStackCount: 1
+- B_Bot_Seeder_C (CORPSE)
+  - SpawnChance: 80%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Bot_Lurker_C (CORPSE)
+  - SpawnChance: 80%
+  - MaxAmount: 3
+  - MaxStackCount: 1
+- B_Bot_Inmate_C (CORPSE)
+  - SpawnChance: 50%
+  - MaxAmount: 2
+  - MaxStackCount: 1
+- B_Bot_Glooper_C (CORPSE)
+  - SpawnChance: 80%
+  - MaxAmount: 3
+  - MaxStackCount: 1
+- B_Bot_Fungus_C (CORPSE)
+  - SpawnChance: 80%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Bot_Chainbearer_C (CORPSE)
+  - SpawnChance: 80%
+  - MaxAmount: 3
+  - MaxStackCount: 1
+- B_Bot_Caveman_C (CORPSE)
+  - SpawnChance: 80%
+  - MaxAmount: 2
+  - MaxStackCount: 1
+
+
+* Can spawn from 9 of the [[Creatures|creatures]]:
+  * {{Creature|Bighead}}
+  * {{Creature|Chainbearer}}
+  * {{Creature|Fungus}}
+  * {{Creature|Glooper}}
+  * {{Creature|Grubgrubber}}
+  * {{Creature|Inmate}}
+  * {{Creature|Neighbour}}
+  * {{Creature|Seeder}}
+  * {{Creature|Witch}}

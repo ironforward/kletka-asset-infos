@@ -50,48 +50,16 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
 
-Loot Spawning Rules:
-- DAF_Anomaly_AfterDust
-  - SpawnChance: 2% ± 0% + 0.5% per player
-  - MinAmount: 0 + 0 per player
-  - MaxAmount: 1 + 0 per player
-  - Ignore Type-Based Adjustments: false
+== CREATURES ==
+
+- B_Bot_Witch_C (CORPSE)
+  - SpawnChance: 30%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+
+== FLOORS ==
+
 - DAF_Anomaly_Backrooms
-  - SpawnChance: 2% ± 0% + 0.5% per player
-  - MinAmount: 0 + 0 per player
-  - MaxAmount: 1 + 0 per player
-  - Ignore Type-Based Adjustments: false
-- DAF_Anomaly_BigRoom
-  - SpawnChance: 2% ± 0% + 0.5% per player
-  - MinAmount: 0 + 0 per player
-  - MaxAmount: 1 + 0 per player
-  - Ignore Type-Based Adjustments: false
-- DAF_Anomaly_CompClub
-  - SpawnChance: 2% ± 0% + 0.5% per player
-  - MinAmount: 0 + 0 per player
-  - MaxAmount: 1 + 0 per player
-  - Ignore Type-Based Adjustments: false
-- DAF_Anomaly_Doors
-  - SpawnChance: 2% ± 0% + 0.5% per player
-  - MinAmount: 0 + 0 per player
-  - MaxAmount: 1 + 0 per player
-  - Ignore Type-Based Adjustments: false
-- DAF_Anomaly_Giantism
-  - SpawnChance: 2% ± 0% + 0.5% per player
-  - MinAmount: 0 + 0 per player
-  - MaxAmount: 1 + 0 per player
-  - Ignore Type-Based Adjustments: false
-- DAF_Anomaly_JunkYard
-  - SpawnChance: 2% ± 0% + 0.5% per player
-  - MinAmount: 0 + 0 per player
-  - MaxAmount: 1 + 0 per player
-  - Ignore Type-Based Adjustments: false
-- DAF_Anomaly_Labyrinth
-  - SpawnChance: 2% ± 0% + 0.5% per player
-  - MinAmount: 0 + 0 per player
-  - MaxAmount: 1 + 0 per player
-  - Ignore Type-Based Adjustments: false
-- DAF_Anomaly_Lighthouse
   - SpawnChance: 2% ± 0% + 0.5% per player
   - MinAmount: 0 + 0 per player
   - MaxAmount: 1 + 0 per player
@@ -106,11 +74,6 @@ Loot Spawning Rules:
   - MinAmount: 0 + 0 per player
   - MaxAmount: 1 + 0 per player
   - Ignore Type-Based Adjustments: false
-- DAF_Anomaly_SexRoom
-  - SpawnChance: 100% ± 0% + 0% per player
-  - MinAmount: 1 + 0 per player
-  - MaxAmount: 1 + 0 per player
-  - Ignore Type-Based Adjustments: true
 - DAF_RB_ProceduralFloor_00
   - SpawnChance: 2% ± 0% + 0.5% per player
   - MinAmount: 0 + 0 per player
@@ -151,3 +114,16 @@ Loot Spawning Rules:
   - MinAmount: 0 + 0 per player
   - MaxAmount: 1 + 0 per player
   - Ignore Type-Based Adjustments: false
+
+* Can spawn as floor loot in 5 of the [[Biomes|biomes]]:
+  * {{Biome|F}}
+  * {{Biome|FM}}
+  * {{Biome|GU}}
+  * {{Biome|P}}
+  * {{Biome|RB}}
+* Can spawn on 3 of the [[Anomalies|Anomaly]] floors:
+  * [[Anomalies#Backrooms|Backrooms]]
+  * [[Anomalies#The Pool|The Pool]]
+  * [[Anomalies#The Sewers|The Sewers]]
+* Can spawn from 1 of the [[Creatures|creatures]]:
+  * {{Creature|Witch}}

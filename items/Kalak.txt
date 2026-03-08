@@ -54,4 +54,20 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
 
-Loot Spawning Rules:
+== CONTAINERS ==
+
+- B_BlackCrate_C
+  - SpawnChance: 10%
+  - MaxAmount: 5
+  - MaxStackCount: 1
+
+== CREATURES ==
+
+- B_Bot_Warden_C (INVENTORY)
+  - SpawnChance: 60%
+
+
+* Can spawn from 1 of the [[Creatures|creatures]]:
+  * {{Creature|Warden}}
+* Can spawn from 1 of the containers:
+  * Black Crate

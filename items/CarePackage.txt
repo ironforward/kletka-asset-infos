@@ -45,9 +45,13 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
 
-Loot Spawning Rules:
+== FLOORS ==
+
 - DAF_Prison_ProceduralFloor_00
   - SpawnChance: 8% ± 1% + 2% per player
   - MinAmount: 0 + 0 per player
   - MaxAmount: 1 + 0 per player
   - Ignore Type-Based Adjustments: false
+
+* Can spawn as floor loot in 1 of the [[Biomes|biomes]]:
+  * {{Biome|P}}

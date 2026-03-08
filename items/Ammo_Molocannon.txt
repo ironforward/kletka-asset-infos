@@ -48,7 +48,36 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
 
-Loot Spawning Rules:
+== CONTAINERS ==
+
+- B_Crate_00_C
+  - SpawnChance: 3%
+  - MaxAmount: 1
+  - MaxStackCount: 3
+- B_Crate_03_Fleshmine_C
+  - SpawnChance: 3%
+  - MaxAmount: 1
+  - MaxStackCount: 3
+- B_CL_Fleshmine_C
+  - SpawnChance: 10%
+  - MaxAmount: 1
+  - MaxStackCount: 4
+- B_WeaponShelf_C
+  - LootItemSpawnChance: 30%
+  - SpawnChance: 14%
+  - MaxAmount: 1
+  - MaxStackCount: 3
+- B_AirDrop_C
+  - SpawnChance: 10%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_PunchBag_C
+  - SpawnChance: 2%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+
+== FLOORS ==
+
 - DAF_Anomaly_Backrooms
   - SpawnChance: 2.2% ± 1% + 1% per player
   - MinAmount: 0 + 0 per player
@@ -79,3 +108,18 @@ Loot Spawning Rules:
   - MinAmount: 0 + 0 per player
   - MaxAmount: 2 + 0 per player
   - Ignore Type-Based Adjustments: false
+
+* Can spawn as floor loot in 2 of the [[Biomes|biomes]]:
+  * {{Biome|P}}
+  * {{Biome|RB}}
+* Can spawn on 3 of the [[Anomalies|Anomaly]] floors:
+  * [[Anomalies#Backrooms|Backrooms]]
+  * [[Anomalies#The Pool|The Pool]]
+  * [[Anomalies#The Sewers|The Sewers]]
+* Can spawn from 6 of the containers:
+  * Air Drop
+  * Cabinet Locker ({{Biome|FM}})
+  * Punching Bag
+  * Weapon Locker
+  * Wooden Box ({{Biome|FM}})
+  * Wooden Crate (Small)

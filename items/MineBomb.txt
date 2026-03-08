@@ -49,4 +49,3 @@ Room Shop Buy Cost (No Ceil): [24.00, 24.00] bottles
 
 = SPAWNING =
 
-Loot Spawning Rules:

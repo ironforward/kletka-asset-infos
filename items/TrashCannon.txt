@@ -51,7 +51,8 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
 
-Loot Spawning Rules:
+== FLOORS ==
+
 - DAF_Anomaly_Backrooms
   - SpawnChance: 5% ± 1% + 0.7% per player
   - MinAmount: 0 + 0 per player
@@ -87,3 +88,12 @@ Loot Spawning Rules:
   - MinAmount: 0 + 0 per player
   - MaxAmount: 1 + 0 per player
   - Ignore Type-Based Adjustments: false
+
+* Can spawn as floor loot in 3 of the [[Biomes|biomes]]:
+  * {{Biome|F}}
+  * {{Biome|P}}
+  * {{Biome|RB}}
+* Can spawn on 3 of the [[Anomalies|Anomaly]] floors:
+  * [[Anomalies#Backrooms|Backrooms]]
+  * [[Anomalies#The Pool|The Pool]]
+  * [[Anomalies#The Sewers|The Sewers]]

@@ -46,3 +46,19 @@ Floor Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
+
+== CONTAINERS ==
+
+- B_WoodenBarrel_C
+  - SpawnChance: 3%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_PunchBag_C
+  - SpawnChance: 2%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+
+
+* Can spawn from 2 of the containers:
+  * Punching Bag
+  * Wooden Barrel
