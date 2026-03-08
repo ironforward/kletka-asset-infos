@@ -8,7 +8,7 @@
 |ItemCategory=Weapon
 |FuelRackStorage=no
 |ToolRackStorage=yes
-|KletkaMouthStorage=yes
+|KletkaMouthStorage=no
 |Enchantable=no
 |MagazineSize=
 |SpareAmmo=
