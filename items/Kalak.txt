@@ -68,6 +68,6 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 
 * Can spawn from 1 of the containers:
-  * Black Crate
+** Black Crate
 * Can spawn from 1 of the [[Creatures|creatures]]:
-  * {{Creature|Warden}}
+** {{Creature|Warden}}

@@ -90,8 +90,8 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
   - Ignore Type-Based Adjustments: false
 
 * Can spawn as floor loot in 1 of the [[Biomes|biomes]]:
-  * {{Biome|FM}}
+** {{Biome|FM}}
 * Can spawn from 1 of the containers:
-  * Wooden Barrel
+** Wooden Barrel
 * Can spawn from 1 of the [[Creatures|creatures]]:
-  * {{Creature|Grubgrubber}}
+** {{Creature|Grubgrubber}}

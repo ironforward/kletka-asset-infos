@@ -67,7 +67,7 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 
 * Can spawn from 1 of the containers:
-  * Vase
+** Vase
 * Can spawn from 2 of the [[Creatures|creatures]]:
-  * {{Creature|Glooper}}
-  * {{Creature|Slime}}
+** {{Creature|Glooper}}
+** {{Creature|Slime}}

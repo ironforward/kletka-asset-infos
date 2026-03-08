@@ -74,6 +74,6 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 
 * Can spawn from 3 of the containers:
-  * Dead Prisoner
-  * Fridge
-  * Safe Box
+** Dead Prisoner
+** Fridge
+** Safe Box

@@ -88,10 +88,10 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
   - Ignore Type-Based Adjustments: false
 
 * Can spawn as floor loot in 2 of the [[Biomes|biomes]]:
-  * {{Biome|FM}}
-  * {{Biome|GU}}
+** {{Biome|FM}}
+** {{Biome|GU}}
 * Can spawn from 2 of the containers:
-  * Weapon Locker
-  * Wooden Box ({{Biome|FM}})
+** Weapon Locker
+** Wooden Box ({{Biome|FM}})
 * Can spawn on 1 of the [[Anomalies|Anomaly]] floors:
-  * [[Anomalies#Junkyard|Junkyard]]
+** [[Anomalies#Junkyard|Junkyard]]

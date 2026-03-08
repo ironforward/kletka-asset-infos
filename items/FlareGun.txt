@@ -109,14 +109,14 @@ Room Shop Buy Cost (No Ceil): [24.00, 24.00] bottles
   - Ignore Type-Based Adjustments: false
 
 * Can spawn as floor loot in 2 of the [[Biomes|biomes]]:
-  * {{Biome|FM}}
-  * {{Biome|GU}}
+** {{Biome|FM}}
+** {{Biome|GU}}
 * Can spawn from 6 of the containers:
-  * Air Drop
-  * Black Crate
-  * Cabinet Locker
-  * Punching Bag
-  * Weapon Locker
-  * Wooden Box ({{Biome|FM}})
+** Air Drop
+** Black Crate
+** Cabinet Locker
+** Punching Bag
+** Weapon Locker
+** Wooden Box ({{Biome|FM}})
 * Can spawn on 1 of the [[Anomalies|Anomaly]] floors:
-  * [[Anomalies#Junkyard|Junkyard]]
+** [[Anomalies#Junkyard|Junkyard]]

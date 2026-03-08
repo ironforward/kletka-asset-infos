@@ -121,12 +121,12 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 
 * Can spawn from 9 of the [[Creatures|creatures]]:
-  * {{Creature|Bighead}}
-  * {{Creature|Chainbearer}}
-  * {{Creature|Fungus}}
-  * {{Creature|Glooper}}
-  * {{Creature|Grubgrubber}}
-  * {{Creature|Inmate}}
-  * {{Creature|Neighbour}}
-  * {{Creature|Seeder}}
-  * {{Creature|Witch}}
+** {{Creature|Bighead}}
+** {{Creature|Chainbearer}}
+** {{Creature|Fungus}}
+** {{Creature|Glooper}}
+** {{Creature|Grubgrubber}}
+** {{Creature|Inmate}}
+** {{Creature|Neighbour}}
+** {{Creature|Seeder}}
+** {{Creature|Witch}}

@@ -84,10 +84,10 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 
 * Can spawn from 3 of the containers:
-  * Meat Ore Deposit
-  * Wooden Barrel
-  * Wooden Box ({{Biome|FM}})
+** Meat Ore Deposit
+** Wooden Barrel
+** Wooden Box ({{Biome|FM}})
 * Can spawn from 3 of the [[Creatures|creatures]]:
-  * {{Creature|ConcreteChewer}}
-  * {{Creature|Fleshweaver}}
-  * {{Creature|Grubgrubber}}
+** {{Creature|ConcreteChewer}}
+** {{Creature|Fleshweaver}}
+** {{Creature|Grubgrubber}}

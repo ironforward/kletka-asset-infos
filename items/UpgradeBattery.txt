@@ -441,12 +441,12 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
   - Ignore Type-Based Adjustments: false
 
 * Can spawn as floor loot in 5 of the [[Biomes|biomes]]:
-  * {{Biome|F}}
-  * {{Biome|FM}}
-  * {{Biome|GU}}
-  * {{Biome|P}}
-  * {{Biome|RB}}
+** {{Biome|F}}
+** {{Biome|FM}}
+** {{Biome|GU}}
+** {{Biome|P}}
+** {{Biome|RB}}
 * Can spawn from 2 of the containers:
-  * Safe Box
-  * Vase
+** Safe Box
+** Vase
 * Can spawn on all of the [[Anomalies|Anomaly]] floors

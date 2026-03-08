@@ -490,37 +490,37 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
   - Ignore Type-Based Adjustments: false
 
 * Can spawn as floor loot in 5 of the [[Biomes|biomes]]:
-  * {{Biome|F}}
-  * {{Biome|FM}}
-  * {{Biome|GU}}
-  * {{Biome|P}}
-  * {{Biome|RB}}
+** {{Biome|F}}
+** {{Biome|FM}}
+** {{Biome|GU}}
+** {{Biome|P}}
+** {{Biome|RB}}
 * Can spawn from 6 of the containers:
-  * Bottle Box
-  * Punching Bag
-  * Wooden Box ({{Biome|FM}})
-  * Wooden Box ({{Biome|P}})
-  * Wooden Crate
-  * Wooden Crate (Small)
+** Bottle Box
+** Punching Bag
+** Wooden Box ({{Biome|FM}})
+** Wooden Box ({{Biome|P}})
+** Wooden Crate
+** Wooden Crate (Small)
 * Can spawn from 20 of the [[Creatures|creatures]]:
-  * {{Creature|Bighead}}
-  * {{Creature|Catroach}}
-  * {{Creature|Chainbearer}}
-  * {{Creature|Cone}}
-  * {{Creature|ExplosiveCrawler}}
-  * {{Creature|Fleshweaver}}
-  * {{Creature|Fungus}}
-  * {{Creature|Glooper}}
-  * {{Creature|Gretchin}}
-  * {{Creature|Grubgrubber}}
-  * {{Creature|Ignitor}}
-  * {{Creature|Inmate}}
-  * {{Creature|Meat Worm}}
-  * {{Creature|Mimic}}
-  * {{Creature|Neighbour}}
-  * {{Creature|Pollinator}}
-  * {{Creature|Seeder}}
-  * {{Creature|Warden}}
-  * {{Creature|Witch}}
-  * {{Creature|Zealot}}
+** {{Creature|Bighead}}
+** {{Creature|Catroach}}
+** {{Creature|Chainbearer}}
+** {{Creature|Cone}}
+** {{Creature|ExplosiveCrawler}}
+** {{Creature|Fleshweaver}}
+** {{Creature|Fungus}}
+** {{Creature|Glooper}}
+** {{Creature|Gretchin}}
+** {{Creature|Grubgrubber}}
+** {{Creature|Ignitor}}
+** {{Creature|Inmate}}
+** {{Creature|Meat Worm}}
+** {{Creature|Mimic}}
+** {{Creature|Neighbour}}
+** {{Creature|Pollinator}}
+** {{Creature|Seeder}}
+** {{Creature|Warden}}
+** {{Creature|Witch}}
+** {{Creature|Zealot}}
 * Can spawn on all of the [[Anomalies|Anomaly]] floors

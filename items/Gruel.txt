@@ -439,12 +439,12 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
   - Ignore Type-Based Adjustments: false
 
 * Can spawn as floor loot in 5 of the [[Biomes|biomes]]:
-  * {{Biome|F}}
-  * {{Biome|FM}}
-  * {{Biome|GU}}
-  * {{Biome|P}}
-  * {{Biome|RB}}
+** {{Biome|F}}
+** {{Biome|FM}}
+** {{Biome|GU}}
+** {{Biome|P}}
+** {{Biome|RB}}
 * Can spawn from 2 of the [[Creatures|creatures]]:
-  * {{Creature|Inmate}}
-  * {{Creature|Warden}}
+** {{Creature|Inmate}}
+** {{Creature|Warden}}
 * Can spawn on all of the [[Anomalies|Anomaly]] floors

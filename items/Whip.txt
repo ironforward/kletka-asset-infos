@@ -161,23 +161,23 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
   - Ignore Type-Based Adjustments: false
 
 * Can spawn as floor loot in 5 of the [[Biomes|biomes]]:
-  * {{Biome|F}}
-  * {{Biome|FM}}
-  * {{Biome|GU}}
-  * {{Biome|P}}
-  * {{Biome|RB}}
+** {{Biome|F}}
+** {{Biome|FM}}
+** {{Biome|GU}}
+** {{Biome|P}}
+** {{Biome|RB}}
 * Can spawn from 1 of the [[Creatures|creatures]]:
-  * {{Creature|Witch}}
+** {{Creature|Witch}}
 * Can spawn on 12 of the [[Anomalies|Anomaly]] floors:
-  * [[Anomalies#Backrooms|Backrooms]]
-  * [[Anomalies#Computer Club|Computer Club]]
-  * [[Anomalies#De Dirt 2|De Dirt 2]]
-  * [[Anomalies#Doors|Doors]]
-  * [[Anomalies#Giantism|Giantism]]
-  * [[Anomalies#Junkyard|Junkyard]]
-  * [[Anomalies#Labyrinth|Labyrinth]]
-  * [[Anomalies#Lightouse|Lightouse]]
-  * Guaranteed to spawn on [[Anomalies#Sex Room|Sex Room]]
-  * [[Anomalies#The Big Room|The Big Room]]
-  * [[Anomalies#The Pool|The Pool]]
-  * [[Anomalies#The Sewers|The Sewers]]
+** [[Anomalies#Backrooms|Backrooms]]
+** [[Anomalies#Computer Club|Computer Club]]
+** [[Anomalies#De Dirt 2|De Dirt 2]]
+** [[Anomalies#Doors|Doors]]
+** [[Anomalies#Giantism|Giantism]]
+** [[Anomalies#Junkyard|Junkyard]]
+** [[Anomalies#Labyrinth|Labyrinth]]
+** [[Anomalies#Lightouse|Lightouse]]
+** [[Anomalies#Sex Room|Sex Room]] (Almost always)
+** [[Anomalies#The Big Room|The Big Room]]
+** [[Anomalies#The Pool|The Pool]]
+** [[Anomalies#The Sewers|The Sewers]]

@@ -74,8 +74,8 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 
 * Can spawn from 5 of the containers:
-  * Cabinet Locker ({{Biome|F}})
-  * Cabinet Locker ({{Biome|FM}})
-  * Cabinet Locker ({{Biome|P}})
-  * Cabinet Locker ({{Biome|RB}})
-  * Safe Box
+** Cabinet Locker ({{Biome|F}})
+** Cabinet Locker ({{Biome|FM}})
+** Cabinet Locker ({{Biome|P}})
+** Cabinet Locker ({{Biome|RB}})
+** Safe Box

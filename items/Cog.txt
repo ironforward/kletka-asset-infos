@@ -376,43 +376,43 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
   - Ignore Type-Based Adjustments: false
 
 * Can spawn as floor loot in 5 of the [[Biomes|biomes]]:
-  * {{Biome|F}}
-  * {{Biome|FM}}
-  * {{Biome|GU}}
-  * {{Biome|P}}
-  * {{Biome|RB}}
+** {{Biome|F}}
+** {{Biome|FM}}
+** {{Biome|GU}}
+** {{Biome|P}}
+** {{Biome|RB}}
 * Can spawn from 1 of the containers:
-  * Wooden Crate (Small)
+** Wooden Crate (Small)
 * Can spawn on 32 of the [[Anomalies|Anomaly]] floors:
-  * [[Anomalies#Backrooms|Backrooms]]
-  * [[Anomalies#Boring Room|Boring Room]]
-  * [[Anomalies#Computer Club|Computer Club]]
-  * [[Anomalies#De Dirt 2|De Dirt 2]]
-  * [[Anomalies#Dead Room|Dead Room]]
-  * [[Anomalies#Disco|Disco]]
-  * [[Anomalies#Dogtown|Dogtown]]
-  * [[Anomalies#DOOM|DOOM]]
-  * [[Anomalies#Doors|Doors]]
-  * [[Anomalies#Exit 8|Exit 8]]
-  * [[Anomalies#Fine|Fine]]
-  * [[Anomalies#Fracture|Fracture]]
-  * [[Anomalies#Funny Games|Funny Games]]
-  * [[Anomalies#Galaxy|Galaxy]]
-  * [[Anomalies#Giantism|Giantism]]
-  * [[Anomalies#Grandma's Apartment|Grandma's Apartment]]
-  * [[Anomalies#Homage|Homage]]
-  * [[Anomalies#Junkyard|Junkyard]]
-  * [[Anomalies#Labyrinth|Labyrinth]]
-  * [[Anomalies#Lightouse|Lightouse]]
-  * [[Anomalies#Matrix|Matrix]]
-  * [[Anomalies#Parkour|Parkour]]
-  * [[Anomalies#Portal|Portal]]
-  * [[Anomalies#Radio Corridor|Radio Corridor]]
-  * [[Anomalies#Red Room|Red Room]]
-  * [[Anomalies#Shining|Shining]]
-  * [[Anomalies#Stalker|Stalker]]
-  * [[Anomalies#The Big Room|The Big Room]]
-  * [[Anomalies#The Pool|The Pool]]
-  * [[Anomalies#The Sewers|The Sewers]]
-  * [[Anomalies#VAZ Corridor|VAZ Corridor]]
-  * [[Anomalies#Yume Nikki|Yume Nikki]]
+** [[Anomalies#Backrooms|Backrooms]]
+** [[Anomalies#Boring Room|Boring Room]]
+** [[Anomalies#Computer Club|Computer Club]]
+** [[Anomalies#De Dirt 2|De Dirt 2]]
+** [[Anomalies#Dead Room|Dead Room]]
+** [[Anomalies#Disco|Disco]]
+** [[Anomalies#Dogtown|Dogtown]]
+** [[Anomalies#DOOM|DOOM]]
+** [[Anomalies#Doors|Doors]]
+** [[Anomalies#Exit 8|Exit 8]]
+** [[Anomalies#Fine|Fine]]
+** [[Anomalies#Fracture|Fracture]]
+** [[Anomalies#Funny Games|Funny Games]]
+** [[Anomalies#Galaxy|Galaxy]]
+** [[Anomalies#Giantism|Giantism]]
+** [[Anomalies#Grandma's Apartment|Grandma's Apartment]]
+** [[Anomalies#Homage|Homage]]
+** [[Anomalies#Junkyard|Junkyard]]
+** [[Anomalies#Labyrinth|Labyrinth]]
+** [[Anomalies#Lightouse|Lightouse]]
+** [[Anomalies#Matrix|Matrix]]
+** [[Anomalies#Parkour|Parkour]]
+** [[Anomalies#Portal|Portal]]
+** [[Anomalies#Radio Corridor|Radio Corridor]]
+** [[Anomalies#Red Room|Red Room]]
+** [[Anomalies#Shining|Shining]]
+** [[Anomalies#Stalker|Stalker]]
+** [[Anomalies#The Big Room|The Big Room]]
+** [[Anomalies#The Pool|The Pool]]
+** [[Anomalies#The Sewers|The Sewers]]
+** [[Anomalies#VAZ Corridor|VAZ Corridor]]
+** [[Anomalies#Yume Nikki|Yume Nikki]]

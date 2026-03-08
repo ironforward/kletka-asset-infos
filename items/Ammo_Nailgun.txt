@@ -146,22 +146,22 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
   - Ignore Type-Based Adjustments: false
 
 * Can spawn as floor loot in 5 of the [[Biomes|biomes]]:
-  * {{Biome|F}}
-  * {{Biome|FM}}
-  * {{Biome|GU}}
-  * {{Biome|P}}
-  * {{Biome|RB}}
+** {{Biome|F}}
+** {{Biome|FM}}
+** {{Biome|GU}}
+** {{Biome|P}}
+** {{Biome|RB}}
 * Can spawn from 6 of the containers:
-  * Air Drop
-  * Cabinet Locker ({{Biome|FM}})
-  * Punching Bag
-  * Weapon Locker
-  * Wooden Box ({{Biome|FM}})
-  * Wooden Crate (Small)
+** Air Drop
+** Cabinet Locker ({{Biome|FM}})
+** Punching Bag
+** Weapon Locker
+** Wooden Box ({{Biome|FM}})
+** Wooden Crate (Small)
 * Can spawn from 1 of the [[Creatures|creatures]]:
-  * {{Creature|Warden}}
+** {{Creature|Warden}}
 * Can spawn on 4 of the [[Anomalies|Anomaly]] floors:
-  * [[Anomalies#Backrooms|Backrooms]]
-  * [[Anomalies#Junkyard|Junkyard]]
-  * [[Anomalies#The Pool|The Pool]]
-  * [[Anomalies#The Sewers|The Sewers]]
+** [[Anomalies#Backrooms|Backrooms]]
+** [[Anomalies#Junkyard|Junkyard]]
+** [[Anomalies#The Pool|The Pool]]
+** [[Anomalies#The Sewers|The Sewers]]

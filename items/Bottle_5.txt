@@ -60,5 +60,5 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 
 * Can spawn from 2 of the containers:
-  * Punching Bag
-  * Wooden Barrel
+** Punching Bag
+** Wooden Barrel

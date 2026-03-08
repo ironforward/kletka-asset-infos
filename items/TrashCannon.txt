@@ -90,10 +90,10 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
   - Ignore Type-Based Adjustments: false
 
 * Can spawn as floor loot in 3 of the [[Biomes|biomes]]:
-  * {{Biome|F}}
-  * {{Biome|P}}
-  * {{Biome|RB}}
+** {{Biome|F}}
+** {{Biome|P}}
+** {{Biome|RB}}
 * Can spawn on 3 of the [[Anomalies|Anomaly]] floors:
-  * [[Anomalies#Backrooms|Backrooms]]
-  * [[Anomalies#The Pool|The Pool]]
-  * [[Anomalies#The Sewers|The Sewers]]
+** [[Anomalies#Backrooms|Backrooms]]
+** [[Anomalies#The Pool|The Pool]]
+** [[Anomalies#The Sewers|The Sewers]]

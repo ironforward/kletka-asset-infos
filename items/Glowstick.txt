@@ -63,5 +63,5 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 
 * Can spawn from 2 of the containers:
-  * Cabinet Locker
-  * Fridge
+** Cabinet Locker
+** Fridge

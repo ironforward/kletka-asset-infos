@@ -68,5 +68,5 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 
 * Can spawn from 2 of the [[Creatures|creatures]]:
-  * {{Creature|ConcreteChewer}}
-  * {{Creature|Fleshweaver}}
+** {{Creature|ConcreteChewer}}
+** {{Creature|Fleshweaver}}

@@ -98,12 +98,12 @@ Room Shop Buy Cost (No Ceil): [24.00, 24.00] bottles
   - Ignore Type-Based Adjustments: false
 
 * Can spawn as floor loot in 2 of the [[Biomes|biomes]]:
-  * {{Biome|P}}
-  * {{Biome|RB}}
+** {{Biome|P}}
+** {{Biome|RB}}
 * Can spawn from 2 of the containers:
-  * Air Drop
-  * Weapon Locker
+** Air Drop
+** Weapon Locker
 * Can spawn on 3 of the [[Anomalies|Anomaly]] floors:
-  * [[Anomalies#Backrooms|Backrooms]]
-  * [[Anomalies#The Pool|The Pool]]
-  * [[Anomalies#The Sewers|The Sewers]]
+** [[Anomalies#Backrooms|Backrooms]]
+** [[Anomalies#The Pool|The Pool]]
+** [[Anomalies#The Sewers|The Sewers]]
