@@ -5,7 +5,7 @@
 |Images=Toxitom_360.gif
 |DebugName=Toxitom
 |ScannerCategory=Extras
-|ItemCategory=Weapon
+|ItemCategory=Medical
 |FuelRackStorage=no
 |ToolRackStorage=no
 |KletkaMouthStorage=yes

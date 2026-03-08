@@ -5,7 +5,7 @@
 |Images=LiveBeer_360.gif
 |DebugName=LiveBeer
 |ScannerCategory=Extras
-|ItemCategory=Weapon
+|ItemCategory=Medical
 |FuelRackStorage=no
 |ToolRackStorage=no
 |KletkaMouthStorage=yes

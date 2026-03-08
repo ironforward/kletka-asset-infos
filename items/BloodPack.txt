@@ -5,7 +5,7 @@
 |Images=BloodPack_360.gif
 |DebugName=BloodPack
 |ScannerCategory=Extras
-|ItemCategory=Weapon
+|ItemCategory=Medical
 |FuelRackStorage=no
 |ToolRackStorage=no
 |KletkaMouthStorage=yes

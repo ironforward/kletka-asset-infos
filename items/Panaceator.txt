@@ -5,7 +5,7 @@
 |Images=Panaceator_360.gif
 |DebugName=Panaceator
 |ScannerCategory=Extras
-|ItemCategory=Weapon
+|ItemCategory=Medical
 |FuelRackStorage=no
 |ToolRackStorage=no
 |KletkaMouthStorage=yes

@@ -5,7 +5,7 @@
 |Images=FoodConcentrate_360.gif
 |DebugName=FoodConcentrate
 |ScannerCategory=Extras
-|ItemCategory=Weapon
+|ItemCategory=Medical
 |FuelRackStorage=no
 |ToolRackStorage=no
 |KletkaMouthStorage=yes

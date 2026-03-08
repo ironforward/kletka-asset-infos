@@ -5,7 +5,7 @@
 |Images=Schwag_360.gif
 |DebugName=GovnyakBox
 |ScannerCategory=Extras
-|ItemCategory=Weapon
+|ItemCategory=Medical
 |FuelRackStorage=no
 |ToolRackStorage=no
 |KletkaMouthStorage=no

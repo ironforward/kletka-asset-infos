@@ -5,7 +5,7 @@
 |Images=Medkit_360.gif
 |DebugName=Medkit
 |ScannerCategory=Extras
-|ItemCategory=Weapon
+|ItemCategory=Medical
 |FuelRackStorage=no
 |ToolRackStorage=no
 |KletkaMouthStorage=yes

@@ -5,7 +5,7 @@
 |Images=LoafofBread_360.gif
 |DebugName=Bread
 |ScannerCategory=Extras
-|ItemCategory=Weapon
+|ItemCategory=Medical
 |FuelRackStorage=no
 |ToolRackStorage=no
 |KletkaMouthStorage=yes

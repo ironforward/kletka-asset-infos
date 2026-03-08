@@ -5,7 +5,7 @@
 |Images=Screechroot_360.gif
 |DebugName=Screechroot
 |ScannerCategory=Extras
-|ItemCategory=Weapon
+|ItemCategory=Medical
 |FuelRackStorage=no
 |ToolRackStorage=no
 |KletkaMouthStorage=yes

@@ -5,7 +5,7 @@
 |Images=CarePackage_360.gif
 |DebugName=CarePackage
 |ScannerCategory=Extras
-|ItemCategory=Weapon
+|ItemCategory=Medical
 |FuelRackStorage=no
 |ToolRackStorage=no
 |KletkaMouthStorage=no

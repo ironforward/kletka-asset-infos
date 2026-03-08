@@ -5,7 +5,7 @@
 |Images=Vodka_360.gif
 |DebugName=Vodka
 |ScannerCategory=Extras
-|ItemCategory=Weapon
+|ItemCategory=Medical
 |FuelRackStorage=no
 |ToolRackStorage=no
 |KletkaMouthStorage=yes
