@@ -49,7 +49,47 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 == FLOORS ==
 
+- DAF_Anomaly_AfterDust
+  - SpawnChance: 16% ± 0.5% + 4% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
 - DAF_Anomaly_Backrooms
+  - SpawnChance: 16% ± 0.5% + 4% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_BigRoom
+  - SpawnChance: 16% ± 0.5% + 4% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_CompClub
+  - SpawnChance: 16% ± 0.5% + 4% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Doors
+  - SpawnChance: 16% ± 0.5% + 4% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Giantism
+  - SpawnChance: 16% ± 0.5% + 4% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_JunkYard
+  - SpawnChance: 16% ± 0.5% + 4% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Labyrinth
+  - SpawnChance: 16% ± 0.5% + 4% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 1 + 0 per player
+  - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_Lighthouse
   - SpawnChance: 16% ± 0.5% + 4% per player
   - MinAmount: 0 + 0 per player
   - MaxAmount: 1 + 0 per player
@@ -111,7 +151,15 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
   * {{Biome|GU}}
   * {{Biome|P}}
   * {{Biome|RB}}
-* Can spawn on 3 of the [[Anomalies|Anomaly]] floors:
+* Can spawn on 11 of the [[Anomalies|Anomaly]] floors:
   * [[Anomalies#Backrooms|Backrooms]]
+  * [[Anomalies#Computer Club|Computer Club]]
+  * [[Anomalies#De Dirt 2|De Dirt 2]]
+  * [[Anomalies#Doors|Doors]]
+  * [[Anomalies#Giantism|Giantism]]
+  * [[Anomalies#Junkyard|Junkyard]]
+  * [[Anomalies#Labyrinth|Labyrinth]]
+  * [[Anomalies#Lightouse|Lightouse]]
+  * [[Anomalies#The Big Room|The Big Room]]
   * [[Anomalies#The Pool|The Pool]]
   * [[Anomalies#The Sewers|The Sewers]]

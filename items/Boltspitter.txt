@@ -84,9 +84,9 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 * Can spawn as floor loot in 1 of the [[Biomes|biomes]]:
   * {{Biome|P}}
-* Can spawn from 1 of the [[Creatures|creatures]]:
-  * {{Creature|Warden}}
 * Can spawn from 3 of the containers:
   * Air Drop
   * Black Crate
   * Weapon Locker
+* Can spawn from 1 of the [[Creatures|creatures]]:
+  * {{Creature|Warden}}

@@ -89,6 +89,11 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
   - MinAmount: 0 + 0 per player
   - MaxAmount: 2 + 0 per player
   - Ignore Type-Based Adjustments: false
+- DAF_Anomaly_JunkYard
+  - SpawnChance: 2.5% ± 0% + 1% per player
+  - MinAmount: 0 + 0 per player
+  - MaxAmount: 2 + 0 per player
+  - Ignore Type-Based Adjustments: false
 - DAF_Anomaly_Pools
   - SpawnChance: 1.7% ± 1% + 1% per player
   - MinAmount: 0 + 0 per player
@@ -146,12 +151,6 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
   * {{Biome|GU}}
   * {{Biome|P}}
   * {{Biome|RB}}
-* Can spawn on 3 of the [[Anomalies|Anomaly]] floors:
-  * [[Anomalies#Backrooms|Backrooms]]
-  * [[Anomalies#The Pool|The Pool]]
-  * [[Anomalies#The Sewers|The Sewers]]
-* Can spawn from 1 of the [[Creatures|creatures]]:
-  * {{Creature|Warden}}
 * Can spawn from 6 of the containers:
   * Air Drop
   * Cabinet Locker ({{Biome|FM}})
@@ -159,3 +158,10 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
   * Weapon Locker
   * Wooden Box ({{Biome|FM}})
   * Wooden Crate (Small)
+* Can spawn from 1 of the [[Creatures|creatures]]:
+  * {{Creature|Warden}}
+* Can spawn on 4 of the [[Anomalies|Anomaly]] floors:
+  * [[Anomalies#Backrooms|Backrooms]]
+  * [[Anomalies#Junkyard|Junkyard]]
+  * [[Anomalies#The Pool|The Pool]]
+  * [[Anomalies#The Sewers|The Sewers]]
