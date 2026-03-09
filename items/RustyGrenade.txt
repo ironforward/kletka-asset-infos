@@ -15,7 +15,7 @@
 |Durability=
 |StackCount=3
 |FuelAmount=
-|BuyCost=5
+|BuyCost=4
 |SellValue=
 |Weight=
 }}
@@ -40,7 +40,7 @@ Initial item stats:
 = SHOP =
 
 Can be bought: true
-Floor Shop Buy Cost: [5, 12] bottles
+Floor Shop Buy Cost: [4, 12] bottles
 Room Shop Buy Cost: [NO_MIN, NO_MAX] bottles
 Floor Shop Buy Cost (No Ceil): [4.40, 11.60] bottles
 Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles

@@ -15,7 +15,7 @@
 |Durability=100
 |StackCount=
 |FuelAmount=
-|BuyCost=8
+|BuyCost=7
 |SellValue=
 |Weight=1.5
 }}
@@ -45,7 +45,7 @@ Material Damage Multipliers:
 = SHOP =
 
 Can be bought: true
-Floor Shop Buy Cost: [8, 21] bottles
+Floor Shop Buy Cost: [7, 21] bottles
 Room Shop Buy Cost: [NO_MIN, NO_MAX] bottles
 Floor Shop Buy Cost (No Ceil): [7.70, 20.30] bottles
 Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
