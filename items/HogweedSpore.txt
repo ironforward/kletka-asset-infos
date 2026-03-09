@@ -48,6 +48,15 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
 
+== CONTAINERS ==
+
+- B_Hogweed_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 30%
+  - AdjustSpawnChance: 30%
+  - MaxAmount: 2
+  - MaxStackCount: 2
+
 == CREATURES ==
 
 - B_Bot_Seeder_C (CORPSE)
@@ -56,5 +65,7 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
   - MaxStackCount: 1
 
 
+* Can spawn from 1 of the containers:
+** Hogweed Stem
 * Can spawn from 1 of the [[Creatures|creatures]]:
 ** {{Creature|Seeder}}

@@ -50,34 +50,136 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 == CONTAINERS ==
 
-- B_Crate_03_Fleshmine_C
-  - SpawnChance: 5%
-  - MaxAmount: 1
-  - MaxStackCount: 10
-- B_Crate_03_Prison_C
+- B_Crate_03_Prison_C (Module_Prison_ControlRoom)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 4%
-  - MaxAmount: 1
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 10
   - MaxStackCount: 10
-- B_CL_Fleshmine_C
-  - SpawnChance: 10%
-  - MaxAmount: 1
-  - MaxStackCount: 15
-- B_CL_Prison_C
-  - LootItemSpawnChance: 4%
-  - SpawnChance: 10%
-  - MaxAmount: 1
-  - MaxStackCount: 15
-- B_WeaponShelf_C
-  - LootItemSpawnChance: 30%
-  - SpawnChance: 15%
-  - MaxAmount: 1
+- B_Crate_03_Prison_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 4%
+  - MaxAmount: 10
   - MaxStackCount: 10
-- B_BlackCrate_C
+- B_CL_Prison_C (Module_Lab_Rerouter_Spiral)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 0.4%
+  - MaxAmount: 15
+  - MaxStackCount: 15
+- B_CL_Prison_C (Module_Lab_Room_Regular)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 0.4%
+  - MaxAmount: 15
+  - MaxStackCount: 15
+- B_CL_Prison_C (Module_Lab_Room_Spiral)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 0.4%
+  - MaxAmount: 15
+  - MaxStackCount: 15
+- B_CL_Prison_C (Module_Prison_Canteen)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 0.4%
+  - MaxAmount: 15
+  - MaxStackCount: 15
+- B_CL_Prison_C (Module_Prison_ControlRoom)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 0.4%
+  - MaxAmount: 15
+  - MaxStackCount: 15
+- B_CL_Prison_C (Module_Prison_CorridorCage_00)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 0.4%
+  - MaxAmount: 15
+  - MaxStackCount: 15
+- B_CL_Prison_C (Module_Prison_CorridorCage_01)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 0.4%
+  - MaxAmount: 15
+  - MaxStackCount: 15
+- B_CL_Prison_C (Module_Prison_CorridorCage_02)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 0.4%
+  - MaxAmount: 15
+  - MaxStackCount: 15
+- B_CL_Prison_C (Module_Prison_CorridorCage_03)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 0.4%
+  - MaxAmount: 15
+  - MaxStackCount: 15
+- B_CL_Prison_C (Module_Prison_CorridorCage_04)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 0.4%
+  - MaxAmount: 15
+  - MaxStackCount: 15
+- B_CL_Prison_C (Module_Prison_Gym)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 0.4%
+  - MaxAmount: 15
+  - MaxStackCount: 15
+- B_CL_Prison_C (Module_Prison_RerouterRoom_02)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 0.4%
+  - MaxAmount: 15
+  - MaxStackCount: 15
+- B_CL_Prison_C (Module_Prison_Security)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 0.4%
+  - MaxAmount: 15
+  - MaxStackCount: 15
+- B_CL_Prison_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 10%
+  - MaxAmount: 15
+  - MaxStackCount: 15
+- B_WeaponShelf_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 15%
+  - AdjustSpawnChance: 15%
+  - MaxAmount: 10
+  - MaxStackCount: 10
+- B_CL_Fleshmine_C (L_Simple_FM_01)
+  - LootItemSpawnChance: 0.12%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 1.2%
+  - MaxAmount: 15
+  - MaxStackCount: 15
+- B_CL_Fleshmine_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 10%
+  - MaxAmount: 15
+  - MaxStackCount: 15
+- B_Crate_03_Fleshmine_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 5%
+  - AdjustSpawnChance: 5%
+  - MaxAmount: 10
+  - MaxStackCount: 10
+- B_BlackCrate_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 15%
+  - AdjustSpawnChance: 15%
   - MaxAmount: 1
   - MaxStackCount: 1
-- B_AirDrop_C
+- B_AirDrop_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 10%
+  - AdjustSpawnChance: 10%
   - MaxAmount: 1
   - MaxStackCount: 1
 

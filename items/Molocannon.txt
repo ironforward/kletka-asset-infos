@@ -54,13 +54,16 @@ Room Shop Buy Cost (No Ceil): [24.00, 24.00] bottles
 
 == CONTAINERS ==
 
-- B_WeaponShelf_C
-  - LootItemSpawnChance: 30%
+- B_WeaponShelf_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 4%
+  - AdjustSpawnChance: 4%
   - MaxAmount: 1
   - MaxStackCount: 1
-- B_AirDrop_C
+- B_AirDrop_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 10%
+  - AdjustSpawnChance: 10%
   - MaxAmount: 1
   - MaxStackCount: 1
 

@@ -48,12 +48,16 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 == CONTAINERS ==
 
-- B_RustbucketController_C
-  - SpawnChance: 50%
-  - MaxAmount: 2
-  - MaxStackCount: 1
-- B_Crate_00_C
+- B_Crate_00_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 2.5%
+  - AdjustSpawnChance: 2.5%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Slime_Magnetic_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 7%
+  - AdjustSpawnChance: 7%
   - MaxAmount: 1
   - MaxStackCount: 1
 

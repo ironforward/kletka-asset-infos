@@ -53,9 +53,10 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 == CONTAINERS ==
 
-- B_CabinetLocker_Base_C
-  - LootItemSpawnChance: 12%
+- B_CabinetLocker_Base_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 40%
+  - AdjustSpawnChance: 40%
   - MaxAmount: 1
   - MaxStackCount: 1
 

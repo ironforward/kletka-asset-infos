@@ -49,18 +49,17 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 == CONTAINERS ==
 
-- B_Prophetron_C
+- B_MechanicalFly_C (L_Boss_MechanicalFly)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 23%
-  - MaxAmount: 1
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 5
   - MaxStackCount: 5
-- B_MechanicalFly_C
-  - SpawnChance: 23%
-  - MaxAmount: 1
-  - MaxStackCount: 5
-- B_CabinetLocker_Base_C
-  - LootItemSpawnChance: 12%
+- B_CabinetLocker_Base_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 50%
-  - MaxAmount: 3
+  - AdjustSpawnChance: 50%
+  - MaxAmount: 1
   - MaxStackCount: 1
 
 == FLOORS ==

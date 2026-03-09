@@ -49,15 +49,18 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 == CONTAINERS ==
 
-- B_Crate_03_Fleshmine_C
-  - SpawnChance: 4%
-  - MaxAmount: 1
-  - MaxStackCount: 2
-- B_WeaponShelf_C
-  - LootItemSpawnChance: 30%
+- B_WeaponShelf_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 14%
-  - MaxAmount: 1
+  - AdjustSpawnChance: 14%
+  - MaxAmount: 3
   - MaxStackCount: 3
+- B_Crate_03_Fleshmine_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 4%
+  - MaxAmount: 2
+  - MaxStackCount: 2
 
 == FLOORS ==
 

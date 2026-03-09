@@ -52,17 +52,712 @@ Room Shop Buy Cost (No Ceil): [18.00, 18.00] bottles
 
 == CONTAINERS ==
 
-- B_Crate_00_C
-  - SpawnChance: 4%
-  - MaxAmount: 1
-  - MaxStackCount: 1
-- B_Crate_02_C
+- B_Crate_02_C (L_ElevatorFrontEndBackground_00)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
   - MaxAmount: 1
   - MaxStackCount: 1
-- B_CabinetLocker_Base_C
-  - LootItemSpawnChance: 12%
+- B_Crate_02_C (L_ElevatorFrontEndBackground_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_ElevatorFrontEndBackground_04)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_ElevatorFrontEndBackground_Winter)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Sewers_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Sewers_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Sewers_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Sewers_04)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Sewers_05)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Sewers_06)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Sewers_07)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Sewers_08)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Sewers_09)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Sewers_Rerouter)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Khrush5)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Khrush6_Broken)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_RerouterRoom)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_RerouterRoom1)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_RerouterRoom2)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_RerouterRoom3)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_RerouterRoom4)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_PrayingRoom)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Staircase_Broken)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Storage1)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_StorageEnd)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_StorageEnd2)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_BigCorridor_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_BigCorridor_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_BigCorridor_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_BigCorridor_04)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Corridor_Junk)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_RerouterCorridor)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_RerouterCorridor1)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Rerouter_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Rerouter_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Rerouter_Glass)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Rerouter_Spiral)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Room_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Room_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Room_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Room_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Room_04)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Room_05)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Room_06)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Room_07)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Room_08)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Room_09)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Room_10)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Room_Glass)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Room_Green)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Room_GreenDoubleGlass)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Room_Sewerage)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Room_Shop)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Lab_Room_Spiral)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Prison_CorridorCage_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Prison_CorridorCage_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Prison_CorridorCage_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Prison_CorridorCage_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Prison_CorridorCage_04)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Prison_RerouterRoom_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Prison_RerouterRoom_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Prison_RerouterRoom_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_Prison_Security)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_GUF_Garage_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_GUF_Garage_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_GUF_Garage_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_GUF_Garage_03_Shop)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_FM_Station_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_FactoryRoom_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_FactoryRoom_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_FactoryRoom_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_FactoryRoom_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_FactoryRoom_04)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_FactoryRoom_05)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_FactoryRoom_06)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_FactoryRoom_07)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_FactoryRoom_08)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_FactoryRoom_10)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_FactoryRoom_11)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_FactoryRoom_12_Shop)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_PrayingRoom_Factory)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_FactoryRerouter_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (Module_FactoryRerouter_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Lobby)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Shop)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Simple_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Simple_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Simple_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Simple_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Simple_04)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Simple_05)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Simple_06)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Simple_07)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Simple_08)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Simple_09)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Simple_10)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Simple_12)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Simple_13)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Simple_FM_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Simple_FM_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Simple_FM_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Boss_ShackledOne)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Boss_MotherOfConcrete)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Boss_MechanicalFly)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Anomaly_AfterDust)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Anomaly_DeadRoom)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (L_Anomaly_Lighthouse)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_02_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.1%
+  - AdjustSpawnChance: 2.1%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_00_C (L_Simple_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_00_C (L_Simple_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 5%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_00_C (L_Simple_04)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 5%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_00_C (L_Simple_06)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 5%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_00_C (L_Simple_FM_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_00_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 4%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_MOG_Limb_Base_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 25%
+  - AdjustSpawnChance: 25%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Slime_Magnetic_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 9%
+  - AdjustSpawnChance: 9%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Slime_Regular_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 4%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_CabinetLocker_Base_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 80%
+  - AdjustSpawnChance: 80%
   - MaxAmount: 1
   - MaxStackCount: 1
 

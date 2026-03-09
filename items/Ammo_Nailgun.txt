@@ -49,30 +49,59 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 == CONTAINERS ==
 
-- B_Crate_00_C
-  - SpawnChance: 4%
-  - MaxAmount: 1
-  - MaxStackCount: 15
-- B_Crate_03_Fleshmine_C
-  - SpawnChance: 4%
-  - MaxAmount: 1
-  - MaxStackCount: 10
-- B_CL_Fleshmine_C
-  - SpawnChance: 10%
-  - MaxAmount: 20
-  - MaxStackCount: 1
-- B_WeaponShelf_C
-  - LootItemSpawnChance: 30%
+- B_WeaponShelf_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 14%
-  - MaxAmount: 1
+  - AdjustSpawnChance: 14%
+  - MaxAmount: 20
   - MaxStackCount: 20
-- B_AirDrop_C
-  - SpawnChance: 10%
+- B_PunchBag_C (Module_Prison_Gym)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2%
+  - AdjustSpawnChance: NO_VALUE%
   - MaxAmount: 1
   - MaxStackCount: 1
-- B_PunchBag_C
+- B_PunchBag_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 2%
-  - MaxAmount: 2
+  - AdjustSpawnChance: 2%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_00_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 4%
+  - MaxAmount: 15
+  - MaxStackCount: 15
+- B_CL_Fleshmine_C (L_Simple_FM_01)
+  - LootItemSpawnChance: 0.12%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 1.2%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_CL_Fleshmine_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 10%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_03_Fleshmine_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 4%
+  - MaxAmount: 10
+  - MaxStackCount: 10
+- B_MOG_Limb_Base_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 14%
+  - AdjustSpawnChance: 14%
+  - MaxAmount: 8
+  - MaxStackCount: 8
+- B_AirDrop_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 10%
+  - MaxAmount: 1
   - MaxStackCount: 1
 
 == CREATURES ==

@@ -53,30 +53,136 @@ Room Shop Buy Cost (No Ceil): [24.00, 24.00] bottles
 
 == CONTAINERS ==
 
-- B_Crate_03_Fleshmine_C
+- B_Crate_03_Prison_C (Module_Lab_Rerouter_Glass)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
   - MaxAmount: 1
   - MaxStackCount: 1
-- B_CabinetLocker_Base_C
-  - LootItemSpawnChance: 12%
-  - SpawnChance: 7%
+- B_Crate_03_Prison_C (Module_Lab_Rerouter_Spiral)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
   - MaxAmount: 1
   - MaxStackCount: 1
-- B_WeaponShelf_C
-  - LootItemSpawnChance: 30%
+- B_Crate_03_Prison_C (Module_Lab_Room_Chief)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_03_Prison_C (Module_Lab_Room_Glass)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_03_Prison_C (Module_Lab_Room_Green)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_03_Prison_C (Module_Lab_Room_GreenDoubleGlass)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_03_Prison_C (Module_Lab_Room_Octagon)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_03_Prison_C (Module_Lab_Room_Regular)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_03_Prison_C (Module_Lab_Room_Spiral)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_03_Prison_C (Module_Prison_Chief)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_03_Prison_C (Module_Prison_Security)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_WeaponShelf_C (Module_Lab_Room_Chief)
+  - LootItemSpawnChance: 0.3%
+  - SpawnChance: 5%
+  - AdjustSpawnChance: 1.5%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_WeaponShelf_C (Module_Prison_Chief)
+  - LootItemSpawnChance: 0.3%
+  - SpawnChance: 5%
+  - AdjustSpawnChance: 1.5%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_WeaponShelf_C (Module_Prison_Security)
+  - LootItemSpawnChance: 0.3%
+  - SpawnChance: 5%
+  - AdjustSpawnChance: 1.5%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_WeaponShelf_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 4%
+  - AdjustSpawnChance: 4%
   - MaxAmount: 1
   - MaxStackCount: 1
-- B_BlackCrate_C
-  - SpawnChance: 20%
-  - MaxAmount: 1
-  - MaxStackCount: 1
-- B_AirDrop_C
-  - SpawnChance: 10%
-  - MaxAmount: 1
-  - MaxStackCount: 1
-- B_PunchBag_C
+- B_PunchBag_C (Module_Prison_Gym)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 2%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_PunchBag_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2%
+  - AdjustSpawnChance: 2%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_03_Fleshmine_C (L_Anomaly_Lighthouse)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Crate_03_Fleshmine_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2.4%
+  - AdjustSpawnChance: 2.4%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_CabinetLocker_Base_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 7%
+  - AdjustSpawnChance: 7%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BlackCrate_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 20%
+  - AdjustSpawnChance: 20%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_AirDrop_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 10%
+  - AdjustSpawnChance: 10%
   - MaxAmount: 1
   - MaxStackCount: 1
 
@@ -111,12 +217,13 @@ Room Shop Buy Cost (No Ceil): [24.00, 24.00] bottles
 * Can spawn as floor loot in 2 of the [[Biomes|biomes]]:
 ** {{Biome|FM}}
 ** {{Biome|GU}}
-* Can spawn from 6 of the containers:
+* Can spawn from 7 of the containers:
 ** Air Drop
 ** Black Crate
 ** Cabinet Locker
 ** Punching Bag
 ** Weapon Locker
 ** Wooden Box ({{Biome|FM}})
+** Wooden Box ({{Biome|P}})
 * Can spawn on 1 of the [[Anomalies|Anomaly]] floors:
 ** [[Anomalies#Junkyard|Junkyard]]

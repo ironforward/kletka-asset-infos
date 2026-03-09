@@ -51,8 +51,550 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 == CONTAINERS ==
 
-- B_BearTrap_C
+- B_BearTrap_C (Module_Sewers_01)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Sewers_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Sewers_05)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Sewers_09)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Khrush1)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Khrush2)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Khrush2_Broken)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Khrush3)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Khrush3_Broken)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Khrush5)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_RerouterRoom2)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_RerouterRoom3)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_RerouterRoom4)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Generator)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Generator1)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Storage)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Storage1)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_StorageEnd)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_StorageEnd2)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_WaterRoom)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_WaterRoom1)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_BigCorridor_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_BigCorridor_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_BigCorridor_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_BigCorridor_04)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Corridor_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Corridor_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Corridor_03_Destroyed)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Corridor_06)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Corridor_07)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Corridor_08)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_RerouterCorridor)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_RerouterCorridor1)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Lab_Corridor_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Lab_Corridor_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Lab_Corridor_04)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Lab_Rerouter_Glass)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Lab_Rerouter_Spiral)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Lab_Room_Chief)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Lab_Room_Glass)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Lab_Room_Green)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Lab_Room_GreenDoubleGlass)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Lab_Room_Octagon)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Lab_Room_Sewerage)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Lab_Room_Spiral)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Prison_Chief)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Prison_CorridorCage_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Prison_CorridorCage_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Prison_CorridorCage_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Prison_CorridorCage_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Prison_CorridorCage_04)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Prison_Corridor_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Prison_RerouterRoom_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Pools_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Pools_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Pools_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Pools_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Pools_08)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (L_GUF_Village_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (L_GUF_Village_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (L_GUF_Village_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryRoom_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryRoom_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryRoom_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryRoom_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryRoom_04)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryRoom_05)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryRoom_06)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryRoom_07)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryRoom_08)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryRoom_09)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryRoom_10)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryRoom_11)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryRoom_12_Shop)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryRoom_Big_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryRoom_Big_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryRoom_Big_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryRerouter_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryRerouter_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryCorridor_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryCorridor_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryCorridor_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryCorridor_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_FactoryCorridor_05)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Backrooms_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Backrooms_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Backrooms_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Backrooms_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Backrooms_05)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (Module_Backrooms_06)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BearTrap_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: 100%
   - MaxAmount: 1
   - MaxStackCount: 1
 

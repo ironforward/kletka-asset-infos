@@ -49,12 +49,76 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 == CONTAINERS ==
 
-- B_WoodenBarrel_C
-  - SpawnChance: 3%
+- B_PunchBag_C (Module_Prison_Gym)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2%
+  - AdjustSpawnChance: NO_VALUE%
   - MaxAmount: 1
   - MaxStackCount: 1
-- B_PunchBag_C
+- B_PunchBag_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 2%
+  - AdjustSpawnChance: 2%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_WoodenBarrel_C (Module_FM_Corridor_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 3%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_WoodenBarrel_C (Module_FM_Room_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 3%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_WoodenBarrel_C (Module_FM_Room_01)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 3%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_WoodenBarrel_C (Module_FM_Room_02)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 3%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_WoodenBarrel_C (Module_FM_Room_03)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 3%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_WoodenBarrel_C (Module_FM_Room_05)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 3%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_WoodenBarrel_C (Module_FM_Room_06)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 3%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_WoodenBarrel_C (Module_FM_Room_08)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 3%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_WoodenBarrel_C (L_Simple_FM_00)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 3%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_WoodenBarrel_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 3%
+  - AdjustSpawnChance: 3%
   - MaxAmount: 1
   - MaxStackCount: 1
 

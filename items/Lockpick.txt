@@ -51,29 +51,137 @@ Room Shop Buy Cost (No Ceil): [2.40, 2.40] bottles
 
 == CONTAINERS ==
 
-- B_CabinetLocker_Base_C
-  - LootItemSpawnChance: 12%
-  - SpawnChance: 2%
-  - MaxAmount: 1
+- B_SafeCase_00_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 5%
+  - AdjustSpawnChance: 5%
+  - MaxAmount: 3
   - MaxStackCount: 3
-- B_CL_Prison_C
-  - LootItemSpawnChance: 4%
-  - SpawnChance: 4%
-  - MaxAmount: 1
-  - MaxStackCount: 3
-- B_CL_ResidentialBlock_C
+- B_CL_ResidentialBlock_C (Module_Storage1)
+  - LootItemSpawnChance: 0.12%
   - SpawnChance: 3%
+  - AdjustSpawnChance: 0.36%
   - MaxAmount: 1
   - MaxStackCount: 1
-- B_SafeCase_00_C
-  - LootItemSpawnChance: 50%
-  - SpawnChance: 5%
+- B_CL_ResidentialBlock_C (Module_StorageEnd)
+  - LootItemSpawnChance: 0.12%
+  - SpawnChance: 3%
+  - AdjustSpawnChance: 0.36%
   - MaxAmount: 1
+  - MaxStackCount: 1
+- B_CL_ResidentialBlock_C (Module_StorageEnd2)
+  - LootItemSpawnChance: 0.12%
+  - SpawnChance: 3%
+  - AdjustSpawnChance: 0.36%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_CL_ResidentialBlock_C (L_Shop)
+  - LootItemSpawnChance: 0.12%
+  - SpawnChance: 3%
+  - AdjustSpawnChance: 0.36%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_CL_ResidentialBlock_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 3%
+  - AdjustSpawnChance: 3%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_CL_Prison_C (Module_Lab_Rerouter_Spiral)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 0.16%
+  - MaxAmount: 3
   - MaxStackCount: 3
-- B_WeaponShelf_C
-  - LootItemSpawnChance: 30%
+- B_CL_Prison_C (Module_Lab_Room_Regular)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 0.16%
+  - MaxAmount: 3
+  - MaxStackCount: 3
+- B_CL_Prison_C (Module_Lab_Room_Spiral)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 0.16%
+  - MaxAmount: 3
+  - MaxStackCount: 3
+- B_CL_Prison_C (Module_Prison_Canteen)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 0.16%
+  - MaxAmount: 3
+  - MaxStackCount: 3
+- B_CL_Prison_C (Module_Prison_ControlRoom)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 0.16%
+  - MaxAmount: 3
+  - MaxStackCount: 3
+- B_CL_Prison_C (Module_Prison_CorridorCage_00)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 0.16%
+  - MaxAmount: 3
+  - MaxStackCount: 3
+- B_CL_Prison_C (Module_Prison_CorridorCage_01)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 0.16%
+  - MaxAmount: 3
+  - MaxStackCount: 3
+- B_CL_Prison_C (Module_Prison_CorridorCage_02)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 0.16%
+  - MaxAmount: 3
+  - MaxStackCount: 3
+- B_CL_Prison_C (Module_Prison_CorridorCage_03)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 0.16%
+  - MaxAmount: 3
+  - MaxStackCount: 3
+- B_CL_Prison_C (Module_Prison_CorridorCage_04)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 0.16%
+  - MaxAmount: 3
+  - MaxStackCount: 3
+- B_CL_Prison_C (Module_Prison_Gym)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 0.16%
+  - MaxAmount: 3
+  - MaxStackCount: 3
+- B_CL_Prison_C (Module_Prison_RerouterRoom_02)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 0.16%
+  - MaxAmount: 3
+  - MaxStackCount: 3
+- B_CL_Prison_C (Module_Prison_Security)
+  - LootItemSpawnChance: 0.04%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 0.16%
+  - MaxAmount: 3
+  - MaxStackCount: 3
+- B_CL_Prison_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 4%
+  - AdjustSpawnChance: 4%
+  - MaxAmount: 3
+  - MaxStackCount: 3
+- B_WeaponShelf_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 11%
-  - MaxAmount: 1
+  - AdjustSpawnChance: 11%
+  - MaxAmount: 3
+  - MaxStackCount: 3
+- B_CabinetLocker_Base_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2%
+  - AdjustSpawnChance: 2%
+  - MaxAmount: 3
   - MaxStackCount: 3
 
 == FLOORS ==

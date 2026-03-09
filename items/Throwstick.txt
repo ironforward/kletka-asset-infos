@@ -47,3 +47,12 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
 
+== CONTAINERS ==
+
+- B_TreeLog_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 30%
+  - AdjustSpawnChance: 30%
+  - MaxAmount: 4
+  - MaxStackCount: 4
+

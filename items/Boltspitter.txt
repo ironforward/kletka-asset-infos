@@ -55,17 +55,40 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 == CONTAINERS ==
 
-- B_WeaponShelf_C
-  - LootItemSpawnChance: 30%
-  - SpawnChance: 3%
+- B_WeaponShelf_C (Module_Lab_Room_Chief)
+  - LootItemSpawnChance: 0.3%
+  - SpawnChance: 5%
+  - AdjustSpawnChance: 1.5%
   - MaxAmount: 1
   - MaxStackCount: 1
-- B_BlackCrate_C
+- B_WeaponShelf_C (Module_Prison_Chief)
+  - LootItemSpawnChance: 0.3%
+  - SpawnChance: 5%
+  - AdjustSpawnChance: 1.5%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_WeaponShelf_C (Module_Prison_Security)
+  - LootItemSpawnChance: 0.3%
+  - SpawnChance: 5%
+  - AdjustSpawnChance: 1.5%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_WeaponShelf_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 3%
+  - AdjustSpawnChance: 3%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BlackCrate_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 15%
+  - AdjustSpawnChance: 15%
   - MaxAmount: 1
   - MaxStackCount: 1
-- B_AirDrop_C
+- B_AirDrop_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 3%
+  - AdjustSpawnChance: 3%
   - MaxAmount: 1
   - MaxStackCount: 1
 

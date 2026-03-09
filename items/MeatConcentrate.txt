@@ -48,13 +48,6 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 = SPAWNING =
 
-== CONTAINERS ==
-
-- B_MotherOfConcreteController_C
-  - SpawnChance: 34%
-  - MaxAmount: 1
-  - MaxStackCount: 1
-
 == CREATURES ==
 
 - B_Bot_Worm_Base_C (CORPSE)

@@ -51,29 +51,29 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 == CONTAINERS ==
 
-- B_ShackledOneController_C
-  - SpawnChance: 100%
-  - MaxAmount: 1
-  - MaxStackCount: 1
-- B_RustbucketController_C
-  - SpawnChance: 100%
-  - MaxAmount: 1
-  - MaxStackCount: 1
-- B_ProphetronController_C
-  - SpawnChance: 100%
-  - MaxAmount: 1
-  - MaxStackCount: 1
-- B_MechanicalFlyController_C
-  - SpawnChance: 100%
-  - MaxAmount: 1
-  - MaxStackCount: 1
-- B_CollegiumController_C
-  - SpawnChance: 100%
-  - MaxAmount: 1
-  - MaxStackCount: 1
-- B_PorkMeat_C
+- B_PorkMeat_C (Module_Prison_Canteen)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 40%
-  - MaxAmount: 2
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_PorkMeat_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 40%
+  - AdjustSpawnChance: 40%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_BetonEater_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 40%
+  - AdjustSpawnChance: 40%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_SwarmMeatPile_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: 100%
+  - MaxAmount: 1
   - MaxStackCount: 1
 
 == CREATURES ==

@@ -49,9 +49,83 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 == CONTAINERS ==
 
-- B_Vase_C
+- B_Vase_C (Module_Khrush1)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 2%
-  - MaxAmount: 2
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Vase_C (Module_Khrush2)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Vase_C (Module_Khrush2_Broken)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Vase_C (Module_Khrush3)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Vase_C (Module_Khrush3_Broken)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Vase_C (Module_Khrush4_Broken)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Vase_C (Module_Lab_Room_Chief)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Vase_C (L_Boss_MindOfGigastructure)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Vase_C (L_Anomaly_SovietRoom)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2%
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Vase_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 2%
+  - AdjustSpawnChance: 2%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_EyeRoller_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 30%
+  - AdjustSpawnChance: 30%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Slime_Magnetic_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 30%
+  - AdjustSpawnChance: 30%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Slime_Regular_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 30%
+  - AdjustSpawnChance: 30%
+  - MaxAmount: 1
   - MaxStackCount: 1
 
 == CREATURES ==

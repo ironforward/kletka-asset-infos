@@ -49,9 +49,17 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 == CONTAINERS ==
 
-- B_PotatoPlant_C
+- B_PotatoPlant_C (L_Boss_Potato)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 35%
-  - MaxAmount: 2
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_PotatoPlant_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 35%
+  - AdjustSpawnChance: 35%
+  - MaxAmount: 1
   - MaxStackCount: 1
 
 

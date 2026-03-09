@@ -51,18 +51,107 @@ Room Shop Buy Cost (No Ceil): [NO_MIN, NO_MAX] bottles
 
 == CONTAINERS ==
 
-- B_Fridge_C
+- B_Fridge_C (Module_Khrush1)
+  - LootItemSpawnChance: 0.13%
   - SpawnChance: 90%
+  - AdjustSpawnChance: 11.700000000000001%
   - MaxAmount: 1
   - MaxStackCount: 1
-- B_SafeCase_Base_C
-  - LootItemSpawnChance: 55%
-  - SpawnChance: 80%
+- B_Fridge_C (Module_Khrush2)
+  - LootItemSpawnChance: 0.13%
+  - SpawnChance: 90%
+  - AdjustSpawnChance: 11.700000000000001%
   - MaxAmount: 1
   - MaxStackCount: 1
-- B_DeadPrisoner_C
+- B_Fridge_C (Module_Khrush2_Broken)
+  - LootItemSpawnChance: 0.13%
+  - SpawnChance: 90%
+  - AdjustSpawnChance: 11.700000000000001%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Fridge_C (Module_Prison_Canteen)
+  - LootItemSpawnChance: 0.13%
+  - SpawnChance: 90%
+  - AdjustSpawnChance: 11.700000000000001%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Fridge_C (Module_Prison_Chief)
+  - LootItemSpawnChance: 0.13%
+  - SpawnChance: 90%
+  - AdjustSpawnChance: 11.700000000000001%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Fridge_C (Module_Prison_RoomCage_VIP)
+  - LootItemSpawnChance: 0.13%
+  - SpawnChance: 90%
+  - AdjustSpawnChance: 11.700000000000001%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Fridge_C (L_GUF_Village_00)
+  - LootItemSpawnChance: 0.13%
+  - SpawnChance: 90%
+  - AdjustSpawnChance: 11.700000000000001%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Fridge_C (L_GUF_Village_01)
+  - LootItemSpawnChance: 0.13%
+  - SpawnChance: 90%
+  - AdjustSpawnChance: 11.700000000000001%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Fridge_C (L_GUF_Village_02)
+  - LootItemSpawnChance: 0.13%
+  - SpawnChance: 90%
+  - AdjustSpawnChance: 11.700000000000001%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Fridge_C (L_Boss_MindOfGigastructure)
+  - LootItemSpawnChance: 0.13%
+  - SpawnChance: 90%
+  - AdjustSpawnChance: 11.700000000000001%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Fridge_C (L_Anomaly_DeadRoom)
+  - LootItemSpawnChance: 0.13%
+  - SpawnChance: 90%
+  - AdjustSpawnChance: 11.700000000000001%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Fridge_C (L_Anomaly_Disco)
+  - LootItemSpawnChance: 0.13%
+  - SpawnChance: 90%
+  - AdjustSpawnChance: 11.700000000000001%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Fridge_C (L_Anomaly_Lighthouse)
+  - LootItemSpawnChance: 0.13%
+  - SpawnChance: 90%
+  - AdjustSpawnChance: 11.700000000000001%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_Fridge_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 90%
+  - AdjustSpawnChance: 90%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_DeadPrisoner_C (Module_Prison_Chief)
+  - LootItemSpawnChance: NO_VALUE%
   - SpawnChance: 100%
-  - MaxAmount: 2
+  - AdjustSpawnChance: NO_VALUE%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_DeadPrisoner_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 100%
+  - AdjustSpawnChance: 100%
+  - MaxAmount: 1
+  - MaxStackCount: 1
+- B_SafeCase_Base_C (UNKNOWN_LEVEL)
+  - LootItemSpawnChance: NO_VALUE%
+  - SpawnChance: 80%
+  - AdjustSpawnChance: 80%
+  - MaxAmount: 1
   - MaxStackCount: 1
 
 == CREATURES ==
